@@ -364,7 +364,7 @@ run {
 }
 
 def mavenGroup = 'org.mitre.synthea'
-def mavenVersion = '3.4.1-SNAPSHOT'
+def mavenVersion = '4.0.0'
 
 publishing {
     publications {
