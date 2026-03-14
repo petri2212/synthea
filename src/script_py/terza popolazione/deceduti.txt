@@ -1,0 +1,1486 @@
+Deceduti trovati: 211
+
+PAZIENTE                                      DATA DECESSO           CAUSA MORTE                                   SEGNALI FHIR
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mrs. Adriana394 Estela596 Ayala238            2017-09-19             End-stage renal disease (disorder)            deceasedDateTime: 2017-09-19T14:26:42+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Aja848 Loan904 Streich926                2015-12-24             Pulmonary emphysema (disorder)                deceasedDateTime: 2015-12-24T09:50:31+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Alayna598 Tasha327 Dibbert990             2023-12-22             Pulmonary emphysema (disorder)                deceasedDateTime: 2023-12-22T15:28:40+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Alayna598 Kovacek682                     2026-01-01             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2026-01-01T22:34:10+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Aleta47 Mayme605 Schoen8                  2019-05-23             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2019-05-23T16:45:47+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Alex454 Sherise735 Boyle917                   2006-04-19             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2006-04-19T02:22:46+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Alfredia958 Hayes766                     2024-10-09             Chronic obstructive bronchitis (disorder)     deceasedDateTime: 2024-10-09T22:29:07+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Amal279 Kelsi424 Hessel84                2024-12-12             Chronic congestive heart failure (disorder)   deceasedDateTime: 2024-12-12T06:35:45+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ana972 Jacquiline133 Hilll811                 2014-02-06             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2014-02-06T05:35:25+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Angelina101 Diedra595 Blick895           1997-12-15             Metastatic malignant neoplasm to colon (disorder) deceasedDateTime: 1997-12-15T07:11:56+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Annabelle638 Rippin620                    2016-05-14             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2016-05-14T08:37:20+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Ariane992 Fay398                          2005-12-13             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2005-12-13T14:56:43+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Arvilla101 Portia383 West559              2022-10-19             Alzheimer's disease (disorder)                deceasedDateTime: 2022-10-19T08:19:04+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Avery919 Raymond398 Satterfield305       2012-04-04             Pneumonia (disorder)                          deceasedDateTime: 2012-04-04T10:52:21+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Bertie593 Kling921                       2014-12-18             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2014-12-18T13:41:50+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Bianca274 Gusikowski974                       2009-03-14             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2009-03-14T15:09:48+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Birgit199 Gilda31 Padberg411             2023-10-28             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2023-10-28T12:52:35+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Bonny428 Donnie175 Purdy2                2021-03-30             Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder) deceasedDateTime: 2021-03-30T16:15:52+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Brandie19 Tremblay80                     2014-08-08             Bullet wound (disorder)                       deceasedDateTime: 2014-08-08T18:06:14+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Caitlin552 Kerluke267                     2022-12-16             Chronic congestive heart failure (disorder)   deceasedDateTime: 2022-12-16T23:22:55+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Carmina141 Beier427                       2018-01-28             Overdose (disorder)                           deceasedDateTime: 2018-01-28T17:30:51+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Carroll471 Herma433 Zemlak964             2024-10-02             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2024-10-02T00:57:49+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Caryn49 Sharon747 Schroeder447           2013-11-27             Chronic congestive heart failure (disorder)   deceasedDateTime: 2013-11-27T20:17:04+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Catarina933 Tijuana228 Carter549         2019-11-16             Chronic congestive heart failure (disorder)   deceasedDateTime: 2019-11-16T02:57:35+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Cathi439 Carlie972 Terry864              1998-12-06             Pulmonary emphysema (disorder)                deceasedDateTime: 1998-12-06T01:36:24+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Cecila397 Friesen796                     1985-09-12             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1985-09-12T08:43:40+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Chana895 Salina386 Rogahn59              2000-08-25             Chronic congestive heart failure (disorder)   deceasedDateTime: 2000-08-25T12:36:01+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Charity776 Norah104 Baumbach677           2012-04-05             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2012-04-05T11:16:44+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Charline650 Milagro117 Waters156          2021-01-01             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2021-01-01T23:39:34+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Chau65 Adelaide981 O'Kon634              2025-01-07             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2025-01-07T23:44:39+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Cherri385 Ricki338 Sawayn19               2022-11-18             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2022-11-18T01:58:42+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Cherry401 Evette961 Connelly992          2001-12-16             Overdose (disorder)                           deceasedDateTime: 2001-12-16T03:39:54+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Christi444 Mignon230 Robel940            2000-03-26             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2000-03-26T07:40:05+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Christiana224 Pearline482 Jones311       2022-10-11             Ischemic heart disease (disorder)             deceasedDateTime: 2022-10-11T20:42:04+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ciara810 Venice604 Armstrong51                2000-12-24             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2000-12-24T01:06:15+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Cinderella355 Maryetta775 Beer512        2009-11-16             End-stage renal disease (disorder)            deceasedDateTime: 2009-11-16T20:54:54+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Cindi877 Kylie930 Heidenreich818          1998-01-27             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1998-01-27T20:27:45+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Cindie288 Botsford977                    2015-05-12             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2015-05-12T06:38:23+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Clemmie560 Ta701 Konopelski743           2008-05-08             non specificata                               deceasedDateTime: 2008-05-08T02:14:13+02:00
+Mrs. Cleora578 Enda486 Friesen796             2020-08-27             Alzheimer's disease (disorder)                deceasedDateTime: 2020-08-27T14:53:55+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Collen405 Fonda178 Rice937               2023-03-21             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2023-03-21T12:48:52+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Corrinne176 Hackett68                    2018-08-10             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2018-08-10T12:38:40+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Dania217 Billi682 Ziemann98              2012-10-10             Overdose (disorder)                           deceasedDateTime: 2012-10-10T12:56:26+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Daphine453 Tempie784 Anderson154         2024-07-04             Non-small cell lung cancer (disorder)         deceasedDateTime: 2024-07-04T23:20:26+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Darnell564 Goldner995                     2021-02-19             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2021-02-19T02:18:09+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Davida245 Watsica258                     2025-12-22             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2025-12-22T20:34:50+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Debby656 Bartoletti50                    2008-01-12             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2008-01-12T11:45:37+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Debera99 Dotty422 Yost751                2014-04-07             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2014-04-07T07:43:48+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Debora709 Maricela194 Sanford861         2001-07-14             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2001-07-14T16:13:27+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Deborah357 Verlene883 Leannon79          2010-08-21             Chronic obstructive bronchitis (disorder)     deceasedDateTime: 2010-08-21T09:51:11+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Debroah867 Margarete324 Kessler503       2020-02-12             Alzheimer's disease (disorder)                deceasedDateTime: 2020-02-12T03:20:17+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Deedra511 Cristin88 D'Amore443           2019-06-25             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2019-06-25T22:36:56+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Denny560 Rosalind66 VonRueden376              2002-10-02             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2002-10-02T08:12:32+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Diedre599 Randi364 Roob72                2016-01-06             Alzheimer's disease (disorder)                deceasedDateTime: 2016-01-06T20:20:59+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Domenica436 Iesha760 Hand679             2013-05-08             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2013-05-08T22:52:35+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Dorris197 Kuhlman484                      2024-08-26             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2024-08-26T11:23:15+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Easter642 Bogisich202                    1994-01-30             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1994-01-30T10:07:27+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Edith654 Valentine262 Corkery305         2021-05-29             Pneumonia (disorder)                          deceasedDateTime: 2021-05-29T23:40:35+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Elda564 Rina274 Jones311                  2017-11-15             Chronic congestive heart failure (disorder)   deceasedDateTime: 2017-11-15T17:19:27+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Elidia194 Halina47 Kreiger457            2025-04-24             Chronic congestive heart failure (disorder)   deceasedDateTime: 2025-04-24T21:12:03+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Elisa944 Marcela739 Lugo857              1990-08-05             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1990-08-05T05:09:47+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Eliza161 Sauer652                        2000-07-24             Chronic congestive heart failure (disorder)   deceasedDateTime: 2000-07-24T04:24:34+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Elvia127 Gerlach374                      2000-07-05             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2000-07-05T07:20:27+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Emerald468 Madison727 Block661            2020-01-14             Chronic congestive heart failure (disorder)   deceasedDateTime: 2020-01-14T05:45:16+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Eryn994 Mante251                          1982-05-03             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1982-05-03T03:11:32+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Eunice461 Ilona639 MacGyver246            2014-09-10             Pneumonia (disorder)                          deceasedDateTime: 2014-09-10T03:20:59+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Evelyne208 Val761 Prohaska837            2016-11-08             Alzheimer's disease (disorder)                deceasedDateTime: 2016-11-08T01:32:47+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Fanny438 Ariel183 Huels583                2013-06-09             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2013-06-09T18:19:55+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Felicitas300 Vinita997 Kunze215               2003-02-07             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2003-02-07T00:47:10+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Felipa93 Eliz744 Gottlieb798                  1979-05-08             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1979-05-08T13:42:45+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Felisa186 Emilie407 Terry864             2026-02-24             Alzheimer's disease (disorder)                deceasedDateTime: 2026-02-24T19:30:38+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Flavia315 Breann988 Hoeger474            1992-12-08             Sudden cardiac death (disorder)               deceasedDateTime: 1992-12-08T20:01:02+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Floretta117 Corina534 Konopelski743      2013-07-03             Overdose (disorder)                           deceasedDateTime: 2013-07-03T07:01:12+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Florida645 Mante251                      2015-05-01             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2015-05-01T17:46:36+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Franchesca574 Rohan584                   2011-09-10             Overlapping malignant neoplasm of colon (disorder) deceasedDateTime: 2011-09-10T15:20:24+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Gay359 Mica978 Moen819                   2019-05-03             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2019-05-03T09:48:37+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Gaye230 Velia837 Gulgowski816            2022-11-20             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2022-11-20T02:45:49+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Gertha313 Adeline686 Hayes766            2008-08-08             End-stage renal disease (disorder)            deceasedDateTime: 2008-08-08T14:46:43+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Gwenda518 Maris768 Zboncak558             2001-05-06             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2001-05-06T19:57:08+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Holli554 Janine159 Lueilwitz711          2011-11-19             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2011-11-19T15:59:53+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Hyon784 Hilary419 Hartmann983            2025-10-28             Overdose (disorder)                           deceasedDateTime: 2025-10-28T07:52:49+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Imelda608 Evan94 Strosin214              1997-12-18             Non-small cell lung cancer (disorder)         deceasedDateTime: 1997-12-18T12:40:13+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Ivey393 Tana168 Corkery305               2021-03-18             Pneumonia (disorder)                          deceasedDateTime: 2021-03-18T06:26:36+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Jacki842 Yi864 Ward668                    2018-02-06             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2018-02-06T17:57:47+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Jaclyn627 Kacie297 Strosin214            2020-08-01             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2020-08-01T17:23:33+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Jacqulyn231 Betsy439 Dietrich576         2001-01-13             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2001-01-13T03:32:01+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Jadwiga271 Retha410 Muller251            2016-05-15             Ischemic heart disease (disorder)             deceasedDateTime: 2016-05-15T17:47:12+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Jamey282 Mamie949 Wyman904                1995-05-22             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1995-05-22T01:19:50+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Jami235 Loren192 Mayert710               2021-05-16             Chronic congestive heart failure (disorder)   deceasedDateTime: 2021-05-16T01:37:07+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Jeanne553 Misty404 Kuvalis369            2024-11-13             Overdose (disorder)                           deceasedDateTime: 2024-11-13T19:51:20+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Jene106 Cindi877 Fay398                  2021-01-29             Chronic congestive heart failure (disorder)   deceasedDateTime: 2021-01-29T15:20:19+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Jenelle653 Pacocha935                    2011-11-23             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2011-11-23T21:40:56+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Jessica140 Green467                      2018-01-12             Pneumonia (disorder)                          deceasedDateTime: 2018-01-12T10:16:44+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Jocelyn538 Teresia279 Bauch723            1984-06-01             Malignant neoplasm of colon (disorder)        deceasedDateTime: 1984-06-01T16:19:47+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Johanne551 Jacquelyn628 Turner526        2021-10-17             Malignant neoplasm of colon (disorder)        deceasedDateTime: 2021-10-17T22:30:18+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Johnnie679 Xiao631 Hartmann983           1999-02-16             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 1999-02-16T15:34:54+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Jolie499 Shin962 Schowalter414           2016-10-11             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2016-10-11T05:08:05+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Julene165 Santos184 Schamberger479        1994-08-30             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1994-08-30T04:01:36+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Julieta402 Zula72 Ryan260                2023-06-25             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2023-06-25T21:58:56+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Juliette736 Deanna833 Aufderhar910        2023-10-13             End-stage renal disease (disorder)            deceasedDateTime: 2023-10-13T20:30:38+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+June482 Meaghan273 Doyle959                   1988-11-04             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1988-11-04T16:44:25+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Karena692 Clora637 Witting912            1999-10-25             Familial Alzheimer's disease of early onset (disorder) deceasedDateTime: 1999-10-25T08:58:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Karlyn611 Florida645 Gerhold939          2024-09-07             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2024-09-07T11:02:59+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Karolyn830 Kelsie51 Raynor401            2024-07-15             Chronic congestive heart failure (disorder)   deceasedDateTime: 2024-07-15T06:27:13+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Karyl215 Hazel720 Bahringer146           2006-02-16             End-stage renal disease (disorder)            deceasedDateTime: 2006-02-16T15:59:53+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Kasey569 Cordia574 Boyle917               2018-05-14             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2018-05-14T17:10:09+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Kassie598 Stoltenberg489                  2000-09-19             Chronic congestive heart failure (disorder)   deceasedDateTime: 2000-09-19T10:06:20+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Kate239 Zenia843 Hansen121               2006-04-08             Chronic congestive heart failure (disorder)   deceasedDateTime: 2006-04-08T09:30:41+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Kathern391 Kirsten270 Kertzmann286       2024-07-15             Pneumonia (disorder)                          deceasedDateTime: 2024-07-15T00:50:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Kathlene786 Turner526                     2024-02-25             Pneumonia (disorder)                          deceasedDateTime: 2024-02-25T03:41:09+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Katrina8 Bess947 Wiza601                 2003-02-08             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2003-02-08T11:17:35+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Keila316 Lehner980                       2006-12-02             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2006-12-02T01:24:31+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Kia427 Hannelore734 Rutherford999        2011-11-10             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2011-11-10T19:33:02+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Kimiko714 Karrie350 Thompson596          2021-07-19             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2021-07-19T16:07:54+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Kristi306 Kelsey155 Gorczany269          2020-11-25             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2020-11-25T18:24:21+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Lala778 Wen848 Raynor401                 2025-11-06             Pneumonia (disorder)                          deceasedDateTime: 2025-11-06T03:48:37+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Latina115 Wilhemina814 Dooley940         2020-07-23             Pneumonia (disorder)                          deceasedDateTime: 2020-07-23T03:50:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Lavenia98 Whitley172 Simonis280          2022-10-15             Pneumonia (disorder)                          deceasedDateTime: 2022-10-15T21:56:38+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Lawana430 Carline928 Sipes176            2024-10-21             Chronic congestive heart failure (disorder)   deceasedDateTime: 2024-10-21T23:20:56+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Lela622 Kenia28 Glover433                 2013-09-06             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2013-09-06T23:29:49+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Lera808 Ashton21 Kshlerin58              2023-06-25             Chronic congestive heart failure (disorder)   deceasedDateTime: 2023-06-25T22:02:13+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Leta870 Bergnaum523                      2018-09-20             non specificata                               deceasedDateTime: 2018-09-20T18:17:57+02:00
+Mrs. Livia401 Elly836 Hyatt152                2019-12-01             Pneumonia (disorder)                          deceasedDateTime: 2019-12-01T20:44:46+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Livia401 Serita370 Balistreri607         2020-09-09             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2020-09-09T11:42:26+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Lorena247 Raquel318 Nolan344             2006-04-25             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2006-04-25T21:01:10+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Lorita217 Dallas143 Koch169               2009-03-19             Pulmonary emphysema (disorder)                deceasedDateTime: 2009-03-19T19:12:51+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Luci727 Kunze215                              1990-06-28             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1990-06-28T04:24:07+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Lynetta635 Lehner980                      2006-09-23             Overdose (disorder)                           deceasedDateTime: 2006-09-23T06:43:44+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Macie339 Myesha901 Maggio310             2024-09-14             Chronic congestive heart failure (disorder)   deceasedDateTime: 2024-09-14T22:40:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Madlyn383 Mandi759 Leuschke194            1997-02-13             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1997-02-13T18:22:24+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Malia984 Shavonda114 Baumbach677         1997-06-15             non specificata                               deceasedDateTime: 1997-06-15T17:59:53+02:00
+Mrs. Mandi759 Roxanne257 Kuhlman484           2018-10-31             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2018-10-31T12:38:49+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Manie910 Rosalie939 Becker968             1997-05-06             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1997-05-06T00:44:03+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Marcelene872 Phuong301 Predovic534        1988-06-17             Non-small cell lung cancer (disorder)         deceasedDateTime: 1988-06-17T03:55:35+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Marguerita493 Tiana543 Lindgren255       2011-11-29             End-stage renal disease (disorder)            deceasedDateTime: 2011-11-29T15:45:47+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Mariana775 Gala823 Bins636               2021-01-01             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2021-01-01T17:18:12+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Marica887 Herminia75 Hodkiewicz467        2021-08-06             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2021-08-06T22:09:21+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Marisol435 Rosario163 Quesada500         2025-02-04             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2025-02-04T04:36:59+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Marjory382 Fransisca150 Bernhard322       2008-10-16             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2008-10-16T11:37:16+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Markita319 Nikia872 Gutkowski940         2021-12-19             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2021-12-19T05:35:00+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Marylyn194 Maria750 Mraz590               1990-09-12             End-stage renal disease (disorder)            deceasedDateTime: 1990-09-12T21:16:44+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. María Soledad68 Patricia625 Ruiz676      2016-02-10             Non-small cell lung cancer (disorder)         deceasedDateTime: 2016-02-10T23:31:35+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Maya972 Magaly973 Goyette777             1978-04-27             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1978-04-27T19:08:04+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Maya972 Un745 Turcotte120                2023-10-13             Chronic congestive heart failure (disorder)   deceasedDateTime: 2023-10-13T21:58:07+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Mee229 Hahn503                           2018-03-19             Overdose (disorder)                           deceasedDateTime: 2018-03-19T22:01:57+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Melaine933 Ethelene252 Parker433         2009-01-01             Pulmonary emphysema (disorder)                deceasedDateTime: 2009-01-01T16:53:53+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Melanie283 Schumm995                     2024-08-26             Malignant neoplasm of colon (disorder)        deceasedDateTime: 2024-08-26T14:54:14+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Melia148 Marcella377 Kling921            2012-05-18             Chronic congestive heart failure (disorder)   deceasedDateTime: 2012-05-18T08:54:32+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Michell380 Bergstrom287                  2001-05-02             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2001-05-02T17:01:24+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Mirna233 Janice500 Renner328             2023-03-09             Chronic congestive heart failure (disorder)   deceasedDateTime: 2023-03-09T13:30:43+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Miss492 Berge125                          2018-02-19             Ischemic heart disease (disorder)             deceasedDateTime: 2018-02-19T23:29:32+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Missy373 Fernande593 Cummings51           2010-05-21             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2010-05-21T21:49:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Mitsuko474 McCullough561                  1991-02-16             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1991-02-16T07:09:51+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Mollie266 Carole948 Lubowitz58           2007-04-24             Overlapping malignant neoplasm of colon (disorder) deceasedDateTime: 2007-04-24T07:12:40+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Muriel394 Delsie188 Cole117              2017-10-01             Chronic congestive heart failure (disorder)   deceasedDateTime: 2017-10-01T18:20:30+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Nakita746 Kenneth671 Pagac496            2014-01-15             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2014-01-15T03:12:33+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Nancie476 Juliana372 Wilkinson796        2015-07-16             Chronic congestive heart failure (disorder)   deceasedDateTime: 2015-07-16T22:31:44+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Nieves278 Yuki258 Kris249                 2017-07-26             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2017-07-26T20:25:56+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Nilda678 Willms744                       2004-08-23             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2004-08-23T13:19:16+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Noemi984 Marcell728 Cartwright189             1984-03-23             Sudden cardiac death (disorder)               deceasedDateTime: 1984-03-23T10:28:04+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Norene941 Noelle559 Padberg411           2015-09-30             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2015-09-30T09:07:19+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Nova124 Elma843 Welch179                 1999-09-16             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1999-09-16T20:33:14+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Pamela954 Koch169                        2025-04-27             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2025-04-27T12:58:51+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Pearlene638 Kimbra238 Howell947               1992-11-27             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1992-11-27T13:23:50+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Pei116 Taina903 Conroy74                 2025-08-16             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2025-08-16T01:25:10+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Penney623 Earlene410 Zemlak964           2025-04-03             End-stage renal disease (disorder)            deceasedDateTime: 2025-04-03T21:54:54+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Piper612 Malvina930 Schaden604           2017-05-31             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2017-05-31T05:48:11+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Raeann749 Pat3 Bashirian201              1992-11-27             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1992-11-27T21:14:42+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Rheba182 Johnson679                      2025-07-20             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2025-07-20T01:06:04+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Rosamaria757 Drew592 Crist667            2005-09-04             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2005-09-04T11:51:13+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Roselia779 Lavada531 Hand679             1998-03-20             Pulmonary emphysema (disorder)                deceasedDateTime: 1998-03-20T01:29:37+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Rosemary734 Shante445 Mueller846         2011-05-28             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2011-05-28T13:21:55+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Rossie247 Maye976 Reynolds644            2022-08-14             Cerebrovascular accident (disorder)           deceasedDateTime: 2022-08-14T06:53:55+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Roxanna261 Fernanda589 Macejkovic424     2020-09-06             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2020-09-06T13:43:09+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Rubie803 Joe656 Kertzmann286                  1999-10-30             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1999-10-30T22:12:20+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Scottie437 Schroeder447                       1994-12-05             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1994-12-05T01:57:02+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Sena221 Jodie811 Emard19                 2016-10-16             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2016-10-16T20:18:03+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Shana231 Mitsuko474 Mohr916              2013-11-03             Ischemic heart disease (disorder)             deceasedDateTime: 2013-11-03T07:10:44+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Shanon591 Robel940                       2009-03-28             Chronic congestive heart failure (disorder)   deceasedDateTime: 2009-03-28T04:03:41+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Shantay950 Iesha760 Konopelski743         2014-07-05             Concussion injury of brain (disorder)         deceasedDateTime: 2014-07-05T08:42:31+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Sharlene906 Joaquina124 Rutherford999     2001-05-22             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2001-05-22T05:38:29+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Sharonda198 Luella739 Kihn564                 1945-05-13             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1945-05-13T12:50:32+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Sheila338 Cecile401 Mraz590              2021-02-01             Chronic congestive heart failure (disorder)   deceasedDateTime: 2021-02-01T18:35:10+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Shelley12 Faviola526 Ledner144           2021-04-01             Alzheimer's disease (disorder)                deceasedDateTime: 2021-04-01T07:15:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Shemika942 Sophia44 Hegmann834           2002-08-31             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2002-08-31T21:46:11+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Sherise735 Arianna984 Cummerata161       2014-10-27             Alzheimer's disease (disorder)                deceasedDateTime: 2014-10-27T21:50:22+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Sherrill767 Roseline981 Emmerich580       2018-09-21             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2018-09-21T01:34:42+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Shira43 Belle514 Pfeffer420              2018-04-24             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2018-04-24T00:06:21+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. So684 Waelchi213                         2021-02-25             Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder) deceasedDateTime: 2021-02-25T01:54:30+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Sun500 Merrill415 Schaden604              2007-05-30             Chronic congestive heart failure (disorder)   deceasedDateTime: 2007-05-30T01:00:14+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Suzan149 Dorris197 Abernathy524          2020-05-18             Chronic congestive heart failure (disorder)   deceasedDateTime: 2020-05-18T12:49:05+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Talisha682 Deckow585                          2001-05-20             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2001-05-20T08:16:06+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Tamekia382 Rosa195 Langosh790            2024-12-06             Human immunodeficiency virus infection (disorder) deceasedDateTime: 2024-12-06T12:00:47+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Tammie751 Jin479 Kub800                  2019-01-10             Pneumonia (disorder)                          deceasedDateTime: 2019-01-10T05:02:37+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Taren286 Ruecker817                       1999-02-23             Malignant neoplasm of breast (disorder)       deceasedDateTime: 1999-02-23T17:46:19+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Tawanda156 Shawna986 Rowe323             2018-10-30             Pneumonia (disorder)                          deceasedDateTime: 2018-10-30T04:19:17+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Tess185 Mora209 Beer512                  2024-07-30             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2024-07-30T09:09:40+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Tessie155 Margarette462 Williamson769     2009-04-02             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2009-04-02T01:04:11+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Theo630 Della552 McClure239              2024-04-09             Pneumonia (disorder)                          deceasedDateTime: 2024-04-09T12:20:59+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Tory770 Yasmin241 Kuphal363              2000-07-08             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2000-07-08T07:40:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Verlene883 Gussie514 Anderson154          2021-05-27             Chronic obstructive bronchitis (disorder)     deceasedDateTime: 2021-05-27T21:40:17+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Vikki110 Lahoma872 Lesch175              2021-10-16             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2021-10-16T09:48:19+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Vonnie403 Zula72 Walker122               1999-09-16             Small cell carcinoma of lung (disorder)       deceasedDateTime: 1999-09-16T14:36:24+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Wanetta360 Cole117                       2002-09-30             Chronic congestive heart failure (disorder)   deceasedDateTime: 2002-09-30T03:09:01+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Whitley172 Rosenda12 Morissette863       1999-09-26             Chronic obstructive bronchitis (disorder)     deceasedDateTime: 1999-09-26T17:47:09+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Yee761 Isidra572 Metz686                 2022-01-03             Alzheimer's disease (disorder)                deceasedDateTime: 2022-01-03T23:10:01+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Yer774 Jeffrey461 Kris249                 2008-10-09             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2008-10-09T04:52:49+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Yuri475 Yetta429 Hyatt152                 2004-08-26             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2004-08-26T18:52:55+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Zella14 Sharmaine326 Pfeffer420          2026-01-28             Acute ST segment elevation myocardial infarction (disorder) deceasedDateTime: 2026-01-28T06:37:26+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Mrs. Zora492 Shelley12 Hartmann983            1999-10-03             Sudden cardiac death (disorder)               deceasedDateTime: 1999-10-03T19:34:56+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+Ms. Zulma701 Chong355 Mitchell808             2013-09-17             Malignant neoplasm of breast (disorder)       deceasedDateTime: 2013-09-17T22:43:35+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DETTAGLIO PER PAZIENTE
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Paziente   : Mrs. Adriana394 Estela596 Ayala238
+Deceduto il: 2017-09-19
+Causa morte: End-stage renal disease (disorder)
+File       : Adriana394_Estela596_Ayala238_8ef7746d-8c0f-6978-5e87-e5430700304a.json
+Segnali    : deceasedDateTime: 2017-09-19T14:26:42+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Aja848 Loan904 Streich926
+Deceduto il: 2015-12-24
+Causa morte: Pulmonary emphysema (disorder)
+File       : Aja848_Loan904_Streich926_579c0332-8b5a-43df-e8df-04ae76b68769.json
+Segnali    : deceasedDateTime: 2015-12-24T09:50:31+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Alayna598 Tasha327 Dibbert990
+Deceduto il: 2023-12-22
+Causa morte: Pulmonary emphysema (disorder)
+File       : Alayna598_Dibbert990_db50ebd7-901e-4ebd-4f12-7f9560f83cfe.json
+Segnali    : deceasedDateTime: 2023-12-22T15:28:40+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Alayna598 Kovacek682
+Deceduto il: 2026-01-01
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Alayna598_Kovacek682_bd1d991a-edee-17d8-b6a5-d8f6420b296e.json
+Segnali    : deceasedDateTime: 2026-01-01T22:34:10+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Aleta47 Mayme605 Schoen8
+Deceduto il: 2019-05-23
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Aleta47_Schoen8_4cf4cee9-5e81-aa3e-bfee-82ec369bc6f9.json
+Segnali    : deceasedDateTime: 2019-05-23T16:45:47+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Alex454 Sherise735 Boyle917
+Deceduto il: 2006-04-19
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Alex454_Boyle917_0afcbe0c-6c2f-05b5-6f31-1d75fa3b01c0.json
+Segnali    : deceasedDateTime: 2006-04-19T02:22:46+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Alfredia958 Hayes766
+Deceduto il: 2024-10-09
+Causa morte: Chronic obstructive bronchitis (disorder)
+File       : Alfredia958_Hayes766_b9b1aaa1-a938-f12f-14e0-adcb595a52d0.json
+Segnali    : deceasedDateTime: 2024-10-09T22:29:07+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Amal279 Kelsi424 Hessel84
+Deceduto il: 2024-12-12
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Amal279_Kelsi424_Hessel84_275215b9-ed08-17cc-8b23-d5914e0b903f.json
+Segnali    : deceasedDateTime: 2024-12-12T06:35:45+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ana972 Jacquiline133 Hilll811
+Deceduto il: 2014-02-06
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Ana972_Hilll811_a74fe28a-e25c-1a77-21fa-4761bb3eca48.json
+Segnali    : deceasedDateTime: 2014-02-06T05:35:25+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Angelina101 Diedra595 Blick895
+Deceduto il: 1997-12-15
+Causa morte: Metastatic malignant neoplasm to colon (disorder)
+File       : Angelina101_Diedra595_Blick895_d0f6775c-762c-c71d-bb7f-4f19c7acc254.json
+Segnali    : deceasedDateTime: 1997-12-15T07:11:56+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Annabelle638 Rippin620
+Deceduto il: 2016-05-14
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Annabelle638_Rippin620_53c678d8-03cf-26db-b2a4-65ada1d5e21e.json
+Segnali    : deceasedDateTime: 2016-05-14T08:37:20+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Ariane992 Fay398
+Deceduto il: 2005-12-13
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Ariane992_Fay398_e42c5a82-698c-1fab-3113-a9a44c4a61b3.json
+Segnali    : deceasedDateTime: 2005-12-13T14:56:43+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Arvilla101 Portia383 West559
+Deceduto il: 2022-10-19
+Causa morte: Alzheimer's disease (disorder)
+File       : Arvilla101_West559_78eaef4b-6f5e-34f1-e165-085623810a5b.json
+Segnali    : deceasedDateTime: 2022-10-19T08:19:04+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Avery919 Raymond398 Satterfield305
+Deceduto il: 2012-04-04
+Causa morte: Pneumonia (disorder)
+File       : Avery919_Raymond398_Satterfield305_160927f6-47f7-a114-48f4-12403b2c1ca5.json
+Segnali    : deceasedDateTime: 2012-04-04T10:52:21+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Bertie593 Kling921
+Deceduto il: 2014-12-18
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Bertie593_Kling921_cc7bb713-a3b4-2bd1-aea4-65adb8f3d02a.json
+Segnali    : deceasedDateTime: 2014-12-18T13:41:50+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Bianca274 Gusikowski974
+Deceduto il: 2009-03-14
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Bianca274_Gusikowski974_45268b90-3ac5-8b71-16b9-113687dfdc97.json
+Segnali    : deceasedDateTime: 2009-03-14T15:09:48+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Birgit199 Gilda31 Padberg411
+Deceduto il: 2023-10-28
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Birgit199_Gilda31_Padberg411_4a2bc2a8-38e5-90bb-e78a-cbd017791110.json
+Segnali    : deceasedDateTime: 2023-10-28T12:52:35+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Bonny428 Donnie175 Purdy2
+Deceduto il: 2021-03-30
+Causa morte: Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)
+File       : Bonny428_Donnie175_Purdy2_51263f4a-c977-8ea0-0e06-ecf240f918a0.json
+Segnali    : deceasedDateTime: 2021-03-30T16:15:52+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Brandie19 Tremblay80
+Deceduto il: 2014-08-08
+Causa morte: Bullet wound (disorder)
+File       : Brandie19_Tremblay80_35ec3d99-2a95-afa5-4585-1007a708c4cc.json
+Segnali    : deceasedDateTime: 2014-08-08T18:06:14+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Caitlin552 Kerluke267
+Deceduto il: 2022-12-16
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Caitlin552_Kerluke267_16627ba1-20d7-708b-c902-14c09e27f035.json
+Segnali    : deceasedDateTime: 2022-12-16T23:22:55+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Carmina141 Beier427
+Deceduto il: 2018-01-28
+Causa morte: Overdose (disorder)
+File       : Carmina141_Beier427_19216bbc-917b-30be-b7b7-3f2b27bc4aa6.json
+Segnali    : deceasedDateTime: 2018-01-28T17:30:51+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Carroll471 Herma433 Zemlak964
+Deceduto il: 2024-10-02
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Carroll471_Zemlak964_6e098307-5b20-c4f4-1050-d173e7760b89.json
+Segnali    : deceasedDateTime: 2024-10-02T00:57:49+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Caryn49 Sharon747 Schroeder447
+Deceduto il: 2013-11-27
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Caryn49_Sharon747_Schroeder447_b82fa21c-ef92-fc55-4fc1-ec582f4a7493.json
+Segnali    : deceasedDateTime: 2013-11-27T20:17:04+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Catarina933 Tijuana228 Carter549
+Deceduto il: 2019-11-16
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Catarina933_Tijuana228_Carter549_226c7dd8-3225-5d47-f53e-a6df5157e5c1.json
+Segnali    : deceasedDateTime: 2019-11-16T02:57:35+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Cathi439 Carlie972 Terry864
+Deceduto il: 1998-12-06
+Causa morte: Pulmonary emphysema (disorder)
+File       : Cathi439_Carlie972_Terry864_d0576d28-a958-3924-8a77-94299dab38e4.json
+Segnali    : deceasedDateTime: 1998-12-06T01:36:24+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Cecila397 Friesen796
+Deceduto il: 1985-09-12
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Cecila397_Friesen796_f304d7ae-145a-c08e-ee3b-8da7bf138000.json
+Segnali    : deceasedDateTime: 1985-09-12T08:43:40+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Chana895 Salina386 Rogahn59
+Deceduto il: 2000-08-25
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Chana895_Salina386_Rogahn59_3447a145-699e-8c05-c8b1-4efc6eeda3fd.json
+Segnali    : deceasedDateTime: 2000-08-25T12:36:01+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Charity776 Norah104 Baumbach677
+Deceduto il: 2012-04-05
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Charity776_Baumbach677_49d69cf9-2608-b6fa-10e6-fc9caa0b5818.json
+Segnali    : deceasedDateTime: 2012-04-05T11:16:44+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Charline650 Milagro117 Waters156
+Deceduto il: 2021-01-01
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Charline650_Waters156_5478df5f-e47c-3db2-c13b-52612757530a.json
+Segnali    : deceasedDateTime: 2021-01-01T23:39:34+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Chau65 Adelaide981 O'Kon634
+Deceduto il: 2025-01-07
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Chau65_Adelaide981_O'Kon634_ddca9bd4-8ecf-46ec-4d58-82a273802755.json
+Segnali    : deceasedDateTime: 2025-01-07T23:44:39+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Cherri385 Ricki338 Sawayn19
+Deceduto il: 2022-11-18
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Cherri385_Sawayn19_10a97fa0-d13f-3214-1093-929577d0a088.json
+Segnali    : deceasedDateTime: 2022-11-18T01:58:42+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Cherry401 Evette961 Connelly992
+Deceduto il: 2001-12-16
+Causa morte: Overdose (disorder)
+File       : Cherry401_Evette961_Connelly992_930ff1ff-6d5d-3c57-2f41-fd77b3c8dcec.json
+Segnali    : deceasedDateTime: 2001-12-16T03:39:54+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Christi444 Mignon230 Robel940
+Deceduto il: 2000-03-26
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Christi444_Mignon230_Robel940_49757a5b-3d81-08f9-1b15-2557fc2ef425.json
+Segnali    : deceasedDateTime: 2000-03-26T07:40:05+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Christiana224 Pearline482 Jones311
+Deceduto il: 2022-10-11
+Causa morte: Ischemic heart disease (disorder)
+File       : Christiana224_Pearline482_Jones311_0195fb5d-b7f6-b868-11cc-f6035082bd6a.json
+Segnali    : deceasedDateTime: 2022-10-11T20:42:04+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ciara810 Venice604 Armstrong51
+Deceduto il: 2000-12-24
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Ciara810_Armstrong51_15bdd7b2-32c0-50ad-aa78-2f231daa0ced.json
+Segnali    : deceasedDateTime: 2000-12-24T01:06:15+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Cinderella355 Maryetta775 Beer512
+Deceduto il: 2009-11-16
+Causa morte: End-stage renal disease (disorder)
+File       : Cinderella355_Maryetta775_Beer512_ca0fc9d7-fc77-c72d-cabb-b42b365b7a98.json
+Segnali    : deceasedDateTime: 2009-11-16T20:54:54+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Cindi877 Kylie930 Heidenreich818
+Deceduto il: 1998-01-27
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Cindi877_Heidenreich818_430c3483-80ff-5b78-b14b-efd63a7189e3.json
+Segnali    : deceasedDateTime: 1998-01-27T20:27:45+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Cindie288 Botsford977
+Deceduto il: 2015-05-12
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Cindie288_Botsford977_fa8b3f4e-8fce-9da0-507f-277ce4b202eb.json
+Segnali    : deceasedDateTime: 2015-05-12T06:38:23+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Clemmie560 Ta701 Konopelski743
+Deceduto il: 2008-05-08
+Causa morte: non specificata
+File       : Clemmie560_Ta701_Konopelski743_e9d1509a-98da-0910-a144-4f4231ec5854.json
+Segnali    : deceasedDateTime: 2008-05-08T02:14:13+02:00
+
+Paziente   : Mrs. Cleora578 Enda486 Friesen796
+Deceduto il: 2020-08-27
+Causa morte: Alzheimer's disease (disorder)
+File       : Cleora578_Enda486_Friesen796_340cadd3-13e4-4740-3247-c8cffb14e556.json
+Segnali    : deceasedDateTime: 2020-08-27T14:53:55+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Collen405 Fonda178 Rice937
+Deceduto il: 2023-03-21
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Collen405_Fonda178_Rice937_de28ddc4-62d7-5003-83eb-a4edd5d50d9a.json
+Segnali    : deceasedDateTime: 2023-03-21T12:48:52+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Corrinne176 Hackett68
+Deceduto il: 2018-08-10
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Corrinne176_Hackett68_159483d9-0207-5ca1-a7b1-98512a52d767.json
+Segnali    : deceasedDateTime: 2018-08-10T12:38:40+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Dania217 Billi682 Ziemann98
+Deceduto il: 2012-10-10
+Causa morte: Overdose (disorder)
+File       : Dania217_Billi682_Ziemann98_25421b08-76dd-1a8e-1623-af4a1aaa5294.json
+Segnali    : deceasedDateTime: 2012-10-10T12:56:26+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Daphine453 Tempie784 Anderson154
+Deceduto il: 2024-07-04
+Causa morte: Non-small cell lung cancer (disorder)
+File       : Daphine453_Tempie784_Anderson154_784bd0f6-12ea-6179-63b5-81f63c68d142.json
+Segnali    : deceasedDateTime: 2024-07-04T23:20:26+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Darnell564 Goldner995
+Deceduto il: 2021-02-19
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Darnell564_Goldner995_e4567339-ab28-f50f-d63d-b27a0beb119a.json
+Segnali    : deceasedDateTime: 2021-02-19T02:18:09+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Davida245 Watsica258
+Deceduto il: 2025-12-22
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Davida245_Watsica258_f0d8b292-5c81-67ba-54a2-e941b827e95f.json
+Segnali    : deceasedDateTime: 2025-12-22T20:34:50+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Debby656 Bartoletti50
+Deceduto il: 2008-01-12
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Debby656_Bartoletti50_9b5e7d15-ab43-5ce7-6027-2bc179ebd645.json
+Segnali    : deceasedDateTime: 2008-01-12T11:45:37+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Debera99 Dotty422 Yost751
+Deceduto il: 2014-04-07
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Debera99_Dotty422_Yost751_a28ca71c-30e2-0dc8-e2f4-6bbfee8dde4b.json
+Segnali    : deceasedDateTime: 2014-04-07T07:43:48+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Debora709 Maricela194 Sanford861
+Deceduto il: 2001-07-14
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Debora709_Maricela194_Sanford861_adf311bc-09c4-998c-e78b-49040b23d1c2.json
+Segnali    : deceasedDateTime: 2001-07-14T16:13:27+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Deborah357 Verlene883 Leannon79
+Deceduto il: 2010-08-21
+Causa morte: Chronic obstructive bronchitis (disorder)
+File       : Deborah357_Verlene883_Leannon79_a774c8ad-4da2-e6d6-aaa6-15d132f02d50.json
+Segnali    : deceasedDateTime: 2010-08-21T09:51:11+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Debroah867 Margarete324 Kessler503
+Deceduto il: 2020-02-12
+Causa morte: Alzheimer's disease (disorder)
+File       : Debroah867_Margarete324_Kessler503_6e1681df-fad8-999c-8e4a-a18cd44fd49b.json
+Segnali    : deceasedDateTime: 2020-02-12T03:20:17+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Deedra511 Cristin88 D'Amore443
+Deceduto il: 2019-06-25
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Deedra511_Cristin88_D'Amore443_cc1e1b18-f4c1-b47d-745f-0ef66d46e2bc.json
+Segnali    : deceasedDateTime: 2019-06-25T22:36:56+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Denny560 Rosalind66 VonRueden376
+Deceduto il: 2002-10-02
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Denny560_VonRueden376_aa37745f-c807-4967-7905-4fc4829de567.json
+Segnali    : deceasedDateTime: 2002-10-02T08:12:32+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Diedre599 Randi364 Roob72
+Deceduto il: 2016-01-06
+Causa morte: Alzheimer's disease (disorder)
+File       : Diedre599_Randi364_Roob72_2eb878eb-0269-193a-442b-7874b2e38207.json
+Segnali    : deceasedDateTime: 2016-01-06T20:20:59+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Domenica436 Iesha760 Hand679
+Deceduto il: 2013-05-08
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Domenica436_Iesha760_Hand679_49c34bd8-81df-74f6-8503-50dccc56a3c7.json
+Segnali    : deceasedDateTime: 2013-05-08T22:52:35+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Dorris197 Kuhlman484
+Deceduto il: 2024-08-26
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Dorris197_Kuhlman484_b432e688-4ab5-4080-3c8d-0329ebfe2284.json
+Segnali    : deceasedDateTime: 2024-08-26T11:23:15+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Easter642 Bogisich202
+Deceduto il: 1994-01-30
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Easter642_Bogisich202_82fea733-ddfc-ea12-9012-9737eb45ade4.json
+Segnali    : deceasedDateTime: 1994-01-30T10:07:27+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Edith654 Valentine262 Corkery305
+Deceduto il: 2021-05-29
+Causa morte: Pneumonia (disorder)
+File       : Edith654_Valentine262_Corkery305_d1f339ea-105d-06ca-2362-f2cb18784cfe.json
+Segnali    : deceasedDateTime: 2021-05-29T23:40:35+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Elda564 Rina274 Jones311
+Deceduto il: 2017-11-15
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Elda564_Jones311_be7c8716-e047-75c3-b2ea-3f318c484ec7.json
+Segnali    : deceasedDateTime: 2017-11-15T17:19:27+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Elidia194 Halina47 Kreiger457
+Deceduto il: 2025-04-24
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Elidia194_Halina47_Kreiger457_8a6f35da-93da-1361-c3fc-ae57fc3a3321.json
+Segnali    : deceasedDateTime: 2025-04-24T21:12:03+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Elisa944 Marcela739 Lugo857
+Deceduto il: 1990-08-05
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Elisa944_Marcela739_Lugo857_cebdfb8a-1bb7-e831-5809-df689ecd901b.json
+Segnali    : deceasedDateTime: 1990-08-05T05:09:47+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Eliza161 Sauer652
+Deceduto il: 2000-07-24
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Eliza161_Sauer652_1c765264-af23-1abf-2eea-717abcb48e0c.json
+Segnali    : deceasedDateTime: 2000-07-24T04:24:34+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Elvia127 Gerlach374
+Deceduto il: 2000-07-05
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Elvia127_Gerlach374_662744c9-bea9-65d8-79be-4cfd4176d9cc.json
+Segnali    : deceasedDateTime: 2000-07-05T07:20:27+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Emerald468 Madison727 Block661
+Deceduto il: 2020-01-14
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Emerald468_Block661_a09a448d-bf56-d9e1-d495-158f464618ca.json
+Segnali    : deceasedDateTime: 2020-01-14T05:45:16+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Eryn994 Mante251
+Deceduto il: 1982-05-03
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Eryn994_Mante251_be74e471-3ad4-59f0-5b01-a3d4f79d96c7.json
+Segnali    : deceasedDateTime: 1982-05-03T03:11:32+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Eunice461 Ilona639 MacGyver246
+Deceduto il: 2014-09-10
+Causa morte: Pneumonia (disorder)
+File       : Eunice461_MacGyver246_e41ed684-b31e-7e23-a0c8-925a98d51221.json
+Segnali    : deceasedDateTime: 2014-09-10T03:20:59+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Evelyne208 Val761 Prohaska837
+Deceduto il: 2016-11-08
+Causa morte: Alzheimer's disease (disorder)
+File       : Evelyne208_Val761_Prohaska837_a2b5c92d-5da2-b44e-12d0-5fa193adee44.json
+Segnali    : deceasedDateTime: 2016-11-08T01:32:47+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Fanny438 Ariel183 Huels583
+Deceduto il: 2013-06-09
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Fanny438_Huels583_cf78a9c4-e466-2bbd-f45b-fdb7387f0b2d.json
+Segnali    : deceasedDateTime: 2013-06-09T18:19:55+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Felicitas300 Vinita997 Kunze215
+Deceduto il: 2003-02-07
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Felicitas300_Kunze215_2f5b135d-4db5-fc90-5243-1d3f610d6336.json
+Segnali    : deceasedDateTime: 2003-02-07T00:47:10+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Felipa93 Eliz744 Gottlieb798
+Deceduto il: 1979-05-08
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Felipa93_Gottlieb798_64d746d9-4ac1-893d-8c63-1d9f9c76aa86.json
+Segnali    : deceasedDateTime: 1979-05-08T13:42:45+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Felisa186 Emilie407 Terry864
+Deceduto il: 2026-02-24
+Causa morte: Alzheimer's disease (disorder)
+File       : Felisa186_Emilie407_Terry864_da3df3a8-0b8f-40a2-7f9d-2fd40de41ec5.json
+Segnali    : deceasedDateTime: 2026-02-24T19:30:38+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Flavia315 Breann988 Hoeger474
+Deceduto il: 1992-12-08
+Causa morte: Sudden cardiac death (disorder)
+File       : Flavia315_Breann988_Hoeger474_afe4cedd-13c0-481f-739c-83a3aa6a361c.json
+Segnali    : deceasedDateTime: 1992-12-08T20:01:02+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Floretta117 Corina534 Konopelski743
+Deceduto il: 2013-07-03
+Causa morte: Overdose (disorder)
+File       : Floretta117_Corina534_Konopelski743_4d5bb36c-016e-1055-7c25-961d3e4fd641.json
+Segnali    : deceasedDateTime: 2013-07-03T07:01:12+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Florida645 Mante251
+Deceduto il: 2015-05-01
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Florida645_Mante251_cbef110f-7fa4-674a-f342-3af161c41a3b.json
+Segnali    : deceasedDateTime: 2015-05-01T17:46:36+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Franchesca574 Rohan584
+Deceduto il: 2011-09-10
+Causa morte: Overlapping malignant neoplasm of colon (disorder)
+File       : Franchesca574_Rohan584_d223337e-92aa-74bd-7293-b36cc3b0182d.json
+Segnali    : deceasedDateTime: 2011-09-10T15:20:24+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Gay359 Mica978 Moen819
+Deceduto il: 2019-05-03
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Gay359_Mica978_Moen819_0ed2fc4f-5457-47de-75f7-81f7184b1256.json
+Segnali    : deceasedDateTime: 2019-05-03T09:48:37+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Gaye230 Velia837 Gulgowski816
+Deceduto il: 2022-11-20
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Gaye230_Velia837_Gulgowski816_b73f0707-3f01-eae5-5ef3-aa17b565e030.json
+Segnali    : deceasedDateTime: 2022-11-20T02:45:49+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Gertha313 Adeline686 Hayes766
+Deceduto il: 2008-08-08
+Causa morte: End-stage renal disease (disorder)
+File       : Gertha313_Adeline686_Hayes766_9fb1b678-095e-c051-78e9-9bcb520c0f2c.json
+Segnali    : deceasedDateTime: 2008-08-08T14:46:43+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Gwenda518 Maris768 Zboncak558
+Deceduto il: 2001-05-06
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Gwenda518_Zboncak558_7c9a6fcb-2aea-c4d7-287c-25876df983f6.json
+Segnali    : deceasedDateTime: 2001-05-06T19:57:08+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Holli554 Janine159 Lueilwitz711
+Deceduto il: 2011-11-19
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Holli554_Janine159_Lueilwitz711_d0044c22-d09e-11ed-1bcc-b08ac550dafc.json
+Segnali    : deceasedDateTime: 2011-11-19T15:59:53+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Hyon784 Hilary419 Hartmann983
+Deceduto il: 2025-10-28
+Causa morte: Overdose (disorder)
+File       : Hyon784_Hilary419_Hartmann983_eb317193-1fc2-7643-3582-dffadb61f301.json
+Segnali    : deceasedDateTime: 2025-10-28T07:52:49+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Imelda608 Evan94 Strosin214
+Deceduto il: 1997-12-18
+Causa morte: Non-small cell lung cancer (disorder)
+File       : Imelda608_Evan94_Strosin214_b837ac1d-471b-e744-17a2-93532ee2ec13.json
+Segnali    : deceasedDateTime: 1997-12-18T12:40:13+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Ivey393 Tana168 Corkery305
+Deceduto il: 2021-03-18
+Causa morte: Pneumonia (disorder)
+File       : Ivey393_Tana168_Corkery305_418a4619-fdfb-b1a0-80ba-5ff26af14589.json
+Segnali    : deceasedDateTime: 2021-03-18T06:26:36+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Jacki842 Yi864 Ward668
+Deceduto il: 2018-02-06
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Jacki842_Ward668_4e48c09b-698c-4f54-b941-4ae39a14a959.json
+Segnali    : deceasedDateTime: 2018-02-06T17:57:47+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Jaclyn627 Kacie297 Strosin214
+Deceduto il: 2020-08-01
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Jaclyn627_Kacie297_Strosin214_34c52b1a-babc-a6a3-ba24-6bc6b2962ef6.json
+Segnali    : deceasedDateTime: 2020-08-01T17:23:33+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Jacqulyn231 Betsy439 Dietrich576
+Deceduto il: 2001-01-13
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Jacqulyn231_Betsy439_Dietrich576_43bc009e-450b-174d-96ba-ec7448409431.json
+Segnali    : deceasedDateTime: 2001-01-13T03:32:01+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Jadwiga271 Retha410 Muller251
+Deceduto il: 2016-05-15
+Causa morte: Ischemic heart disease (disorder)
+File       : Jadwiga271_Retha410_Muller251_5a1e5675-460f-51d0-9998-13818ac35c1a.json
+Segnali    : deceasedDateTime: 2016-05-15T17:47:12+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Jamey282 Mamie949 Wyman904
+Deceduto il: 1995-05-22
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Jamey282_Wyman904_f9a2c8f5-4aab-e9fc-29dc-cdcc63a4c7da.json
+Segnali    : deceasedDateTime: 1995-05-22T01:19:50+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Jami235 Loren192 Mayert710
+Deceduto il: 2021-05-16
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Jami235_Loren192_Mayert710_f9677bb5-a0b9-815e-fef6-c6c71792d73d.json
+Segnali    : deceasedDateTime: 2021-05-16T01:37:07+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Jeanne553 Misty404 Kuvalis369
+Deceduto il: 2024-11-13
+Causa morte: Overdose (disorder)
+File       : Jeanne553_Misty404_Kuvalis369_221fc6c6-eb6b-02fc-2c50-95115cc0ea53.json
+Segnali    : deceasedDateTime: 2024-11-13T19:51:20+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Jene106 Cindi877 Fay398
+Deceduto il: 2021-01-29
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Jene106_Cindi877_Fay398_2d6a4cd3-ea8f-78db-86ce-539651cb09b8.json
+Segnali    : deceasedDateTime: 2021-01-29T15:20:19+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Jenelle653 Pacocha935
+Deceduto il: 2011-11-23
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Jenelle653_Pacocha935_d4d7ff0d-e739-5527-54e0-b4c2356fa5a6.json
+Segnali    : deceasedDateTime: 2011-11-23T21:40:56+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Jessica140 Green467
+Deceduto il: 2018-01-12
+Causa morte: Pneumonia (disorder)
+File       : Jessica140_Green467_30c0a2b1-8713-b369-8f5a-a95a3f57b1b5.json
+Segnali    : deceasedDateTime: 2018-01-12T10:16:44+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Jocelyn538 Teresia279 Bauch723
+Deceduto il: 1984-06-01
+Causa morte: Malignant neoplasm of colon (disorder)
+File       : Jocelyn538_Bauch723_03c3d42d-7830-0c62-243f-9d1b63d5739f.json
+Segnali    : deceasedDateTime: 1984-06-01T16:19:47+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Johanne551 Jacquelyn628 Turner526
+Deceduto il: 2021-10-17
+Causa morte: Malignant neoplasm of colon (disorder)
+File       : Johanne551_Jacquelyn628_Turner526_5f6d651d-f8f7-bc5e-52b0-3d72112ff190.json
+Segnali    : deceasedDateTime: 2021-10-17T22:30:18+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Johnnie679 Xiao631 Hartmann983
+Deceduto il: 1999-02-16
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Johnnie679_Xiao631_Hartmann983_f347ab1d-7dde-7197-b630-b7fa63c7d0bd.json
+Segnali    : deceasedDateTime: 1999-02-16T15:34:54+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Jolie499 Shin962 Schowalter414
+Deceduto il: 2016-10-11
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Jolie499_Shin962_Schowalter414_0f81078c-dee3-a49e-760f-cb737724c05c.json
+Segnali    : deceasedDateTime: 2016-10-11T05:08:05+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Julene165 Santos184 Schamberger479
+Deceduto il: 1994-08-30
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Julene165_Schamberger479_bb5c01c0-17b7-5f2d-1530-47ae1edc20f5.json
+Segnali    : deceasedDateTime: 1994-08-30T04:01:36+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Julieta402 Zula72 Ryan260
+Deceduto il: 2023-06-25
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Julieta402_Zula72_Ryan260_71bdb507-658c-04c8-7cd8-85011ae5cbac.json
+Segnali    : deceasedDateTime: 2023-06-25T21:58:56+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Juliette736 Deanna833 Aufderhar910
+Deceduto il: 2023-10-13
+Causa morte: End-stage renal disease (disorder)
+File       : Juliette736_Aufderhar910_c36d7040-41f8-eb66-ef1b-3599185489ba.json
+Segnali    : deceasedDateTime: 2023-10-13T20:30:38+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : June482 Meaghan273 Doyle959
+Deceduto il: 1988-11-04
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : June482_Doyle959_2f088702-ad27-8e43-05b6-bd1e88a2d287.json
+Segnali    : deceasedDateTime: 1988-11-04T16:44:25+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Karena692 Clora637 Witting912
+Deceduto il: 1999-10-25
+Causa morte: Familial Alzheimer's disease of early onset (disorder)
+File       : Karena692_Clora637_Witting912_64eb4e13-056c-d17c-4061-8c52a0fb7de3.json
+Segnali    : deceasedDateTime: 1999-10-25T08:58:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Karlyn611 Florida645 Gerhold939
+Deceduto il: 2024-09-07
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Karlyn611_Florida645_Gerhold939_a8c01846-1baa-c935-2090-cd1e7d66ee09.json
+Segnali    : deceasedDateTime: 2024-09-07T11:02:59+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Karolyn830 Kelsie51 Raynor401
+Deceduto il: 2024-07-15
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Karolyn830_Kelsie51_Raynor401_7aaec62f-178a-0a38-de52-9f0069a60133.json
+Segnali    : deceasedDateTime: 2024-07-15T06:27:13+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Karyl215 Hazel720 Bahringer146
+Deceduto il: 2006-02-16
+Causa morte: End-stage renal disease (disorder)
+File       : Karyl215_Hazel720_Bahringer146_e4330577-a509-fc67-bb09-a756f44b4814.json
+Segnali    : deceasedDateTime: 2006-02-16T15:59:53+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Kasey569 Cordia574 Boyle917
+Deceduto il: 2018-05-14
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Kasey569_Boyle917_f18428cd-d5eb-fe57-6b32-7ab99041669d.json
+Segnali    : deceasedDateTime: 2018-05-14T17:10:09+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Kassie598 Stoltenberg489
+Deceduto il: 2000-09-19
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Kassie598_Stoltenberg489_c0ef4639-3589-b4d0-5444-1e6c4e2a5cd9.json
+Segnali    : deceasedDateTime: 2000-09-19T10:06:20+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Kate239 Zenia843 Hansen121
+Deceduto il: 2006-04-08
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Kate239_Zenia843_Hansen121_bfbfaaf4-f4ed-6d75-0780-5a4a207d8271.json
+Segnali    : deceasedDateTime: 2006-04-08T09:30:41+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Kathern391 Kirsten270 Kertzmann286
+Deceduto il: 2024-07-15
+Causa morte: Pneumonia (disorder)
+File       : Kathern391_Kirsten270_Kertzmann286_80f0ad09-c408-842c-b10e-6c7cda09f5a6.json
+Segnali    : deceasedDateTime: 2024-07-15T00:50:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Kathlene786 Turner526
+Deceduto il: 2024-02-25
+Causa morte: Pneumonia (disorder)
+File       : Kathlene786_Turner526_f3707fcd-7030-f8fc-a3d8-b2e3887e4292.json
+Segnali    : deceasedDateTime: 2024-02-25T03:41:09+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Katrina8 Bess947 Wiza601
+Deceduto il: 2003-02-08
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Katrina8_Bess947_Wiza601_9d60e2b9-5d83-d47a-5df3-fb233dfb07e6.json
+Segnali    : deceasedDateTime: 2003-02-08T11:17:35+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Keila316 Lehner980
+Deceduto il: 2006-12-02
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Keila316_Lehner980_b437da87-70dc-b811-4ae4-a1353429f909.json
+Segnali    : deceasedDateTime: 2006-12-02T01:24:31+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Kia427 Hannelore734 Rutherford999
+Deceduto il: 2011-11-10
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Kia427_Hannelore734_Rutherford999_0c682459-a334-26e2-a74c-72a03071241b.json
+Segnali    : deceasedDateTime: 2011-11-10T19:33:02+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Kimiko714 Karrie350 Thompson596
+Deceduto il: 2021-07-19
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Kimiko714_Karrie350_Thompson596_82d41e9d-ec08-840a-6d2c-c9ea768ae615.json
+Segnali    : deceasedDateTime: 2021-07-19T16:07:54+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Kristi306 Kelsey155 Gorczany269
+Deceduto il: 2020-11-25
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Kristi306_Kelsey155_Gorczany269_f579eb8a-b343-f979-8abf-d480a5acfe08.json
+Segnali    : deceasedDateTime: 2020-11-25T18:24:21+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Lala778 Wen848 Raynor401
+Deceduto il: 2025-11-06
+Causa morte: Pneumonia (disorder)
+File       : Lala778_Wen848_Raynor401_88c5e451-ec0f-2f6e-e050-d733b0e6fb76.json
+Segnali    : deceasedDateTime: 2025-11-06T03:48:37+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Latina115 Wilhemina814 Dooley940
+Deceduto il: 2020-07-23
+Causa morte: Pneumonia (disorder)
+File       : Latina115_Wilhemina814_Dooley940_e39b0bd9-382d-5415-a1e6-918ae81e6037.json
+Segnali    : deceasedDateTime: 2020-07-23T03:50:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Lavenia98 Whitley172 Simonis280
+Deceduto il: 2022-10-15
+Causa morte: Pneumonia (disorder)
+File       : Lavenia98_Whitley172_Simonis280_a9e4bd59-a3a2-ff57-81cf-0f12c1452f04.json
+Segnali    : deceasedDateTime: 2022-10-15T21:56:38+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Lawana430 Carline928 Sipes176
+Deceduto il: 2024-10-21
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Lawana430_Carline928_Sipes176_f8a1ddb0-e5ff-691e-c283-330b5d3c4656.json
+Segnali    : deceasedDateTime: 2024-10-21T23:20:56+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Lela622 Kenia28 Glover433
+Deceduto il: 2013-09-06
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Lela622_Glover433_8cb1fa24-3f6c-d160-e7ba-eb706d86c2ff.json
+Segnali    : deceasedDateTime: 2013-09-06T23:29:49+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Lera808 Ashton21 Kshlerin58
+Deceduto il: 2023-06-25
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Lera808_Ashton21_Kshlerin58_d05f5f08-86b8-523a-adf1-8c151c20bfa8.json
+Segnali    : deceasedDateTime: 2023-06-25T22:02:13+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Leta870 Bergnaum523
+Deceduto il: 2018-09-20
+Causa morte: non specificata
+File       : Leta870_Bergnaum523_3a28267c-5f5a-aba8-b33d-4f37cd65980f.json
+Segnali    : deceasedDateTime: 2018-09-20T18:17:57+02:00
+
+Paziente   : Mrs. Livia401 Elly836 Hyatt152
+Deceduto il: 2019-12-01
+Causa morte: Pneumonia (disorder)
+File       : Livia401_Elly836_Hyatt152_daee885a-36e7-54fa-2375-4a7cc0588e42.json
+Segnali    : deceasedDateTime: 2019-12-01T20:44:46+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Livia401 Serita370 Balistreri607
+Deceduto il: 2020-09-09
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Livia401_Serita370_Balistreri607_87d0d2b4-842e-d19e-b84f-6a5c6c4d1bac.json
+Segnali    : deceasedDateTime: 2020-09-09T11:42:26+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Lorena247 Raquel318 Nolan344
+Deceduto il: 2006-04-25
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Lorena247_Raquel318_Nolan344_d550c27c-f7bd-bb9c-c21d-37d61dc7d381.json
+Segnali    : deceasedDateTime: 2006-04-25T21:01:10+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Lorita217 Dallas143 Koch169
+Deceduto il: 2009-03-19
+Causa morte: Pulmonary emphysema (disorder)
+File       : Lorita217_Koch169_8943acfb-d919-7bfe-e0df-180730ad4015.json
+Segnali    : deceasedDateTime: 2009-03-19T19:12:51+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Luci727 Kunze215
+Deceduto il: 1990-06-28
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Luci727_Kunze215_651fb700-6a5a-49e1-74e1-61ffa368961c.json
+Segnali    : deceasedDateTime: 1990-06-28T04:24:07+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Lynetta635 Lehner980
+Deceduto il: 2006-09-23
+Causa morte: Overdose (disorder)
+File       : Lynetta635_Lehner980_42b779b9-4db9-5509-e52a-f506688a7ceb.json
+Segnali    : deceasedDateTime: 2006-09-23T06:43:44+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Macie339 Myesha901 Maggio310
+Deceduto il: 2024-09-14
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Macie339_Myesha901_Maggio310_11bd4203-846a-0b39-68a3-5fadc632c8ea.json
+Segnali    : deceasedDateTime: 2024-09-14T22:40:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Madlyn383 Mandi759 Leuschke194
+Deceduto il: 1997-02-13
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Madlyn383_Leuschke194_cd9bd22f-9d17-a637-b80d-f1d43c0474f3.json
+Segnali    : deceasedDateTime: 1997-02-13T18:22:24+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Malia984 Shavonda114 Baumbach677
+Deceduto il: 1997-06-15
+Causa morte: non specificata
+File       : Malia984_Shavonda114_Baumbach677_74549220-ae6f-f4a0-20dd-cf59fc198717.json
+Segnali    : deceasedDateTime: 1997-06-15T17:59:53+02:00
+
+Paziente   : Mrs. Mandi759 Roxanne257 Kuhlman484
+Deceduto il: 2018-10-31
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Mandi759_Roxanne257_Kuhlman484_81e99b0f-faf6-567b-0836-9fceeed976e0.json
+Segnali    : deceasedDateTime: 2018-10-31T12:38:49+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Manie910 Rosalie939 Becker968
+Deceduto il: 1997-05-06
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Manie910_Becker968_740fad75-0e01-2922-afc0-2c0775ab611f.json
+Segnali    : deceasedDateTime: 1997-05-06T00:44:03+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Marcelene872 Phuong301 Predovic534
+Deceduto il: 1988-06-17
+Causa morte: Non-small cell lung cancer (disorder)
+File       : Marcelene872_Predovic534_580573bd-c9ff-e340-2d0d-479b4f826293.json
+Segnali    : deceasedDateTime: 1988-06-17T03:55:35+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Marguerita493 Tiana543 Lindgren255
+Deceduto il: 2011-11-29
+Causa morte: End-stage renal disease (disorder)
+File       : Marguerita493_Tiana543_Lindgren255_dc7c45d0-820c-ee32-4cb6-6f1641d6f459.json
+Segnali    : deceasedDateTime: 2011-11-29T15:45:47+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Mariana775 Gala823 Bins636
+Deceduto il: 2021-01-01
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Mariana775_Gala823_Bins636_2ed6cc5c-a9b3-7858-ba21-b5263fbf4753.json
+Segnali    : deceasedDateTime: 2021-01-01T17:18:12+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Marica887 Herminia75 Hodkiewicz467
+Deceduto il: 2021-08-06
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Marica887_Hodkiewicz467_fc68b5e6-b64a-7af5-59d1-e6a105b17242.json
+Segnali    : deceasedDateTime: 2021-08-06T22:09:21+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Marisol435 Rosario163 Quesada500
+Deceduto il: 2025-02-04
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Marisol435_Rosario163_Quesada500_63f3c6f1-a9ad-e38d-b2a2-d1144e817b1a.json
+Segnali    : deceasedDateTime: 2025-02-04T04:36:59+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Marjory382 Fransisca150 Bernhard322
+Deceduto il: 2008-10-16
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Marjory382_Bernhard322_8f11e0af-68ef-1d6b-91ed-eebac6cfd5ea.json
+Segnali    : deceasedDateTime: 2008-10-16T11:37:16+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Markita319 Nikia872 Gutkowski940
+Deceduto il: 2021-12-19
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Markita319_Nikia872_Gutkowski940_cd9cda8d-bf59-c053-25c9-903ad4135a31.json
+Segnali    : deceasedDateTime: 2021-12-19T05:35:00+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Marylyn194 Maria750 Mraz590
+Deceduto il: 1990-09-12
+Causa morte: End-stage renal disease (disorder)
+File       : Marylyn194_Mraz590_d46da6ad-865f-eee0-1222-e1590f0eb1f2.json
+Segnali    : deceasedDateTime: 1990-09-12T21:16:44+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. María Soledad68 Patricia625 Ruiz676
+Deceduto il: 2016-02-10
+Causa morte: Non-small cell lung cancer (disorder)
+File       : María_Soledad68_Patricia625_Ruiz676_e9daf947-1722-ae96-d067-144a0f9aa492.json
+Segnali    : deceasedDateTime: 2016-02-10T23:31:35+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Maya972 Magaly973 Goyette777
+Deceduto il: 1978-04-27
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Maya972_Magaly973_Goyette777_eb719511-6334-92af-2fd1-018f3123b99e.json
+Segnali    : deceasedDateTime: 1978-04-27T19:08:04+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Maya972 Un745 Turcotte120
+Deceduto il: 2023-10-13
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Maya972_Un745_Turcotte120_ca25999b-c59f-76c1-8b57-43d5f01df62d.json
+Segnali    : deceasedDateTime: 2023-10-13T21:58:07+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Mee229 Hahn503
+Deceduto il: 2018-03-19
+Causa morte: Overdose (disorder)
+File       : Mee229_Hahn503_3978f220-cd5b-544f-13fd-eb25abcbf837.json
+Segnali    : deceasedDateTime: 2018-03-19T22:01:57+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Melaine933 Ethelene252 Parker433
+Deceduto il: 2009-01-01
+Causa morte: Pulmonary emphysema (disorder)
+File       : Melaine933_Ethelene252_Parker433_f7f54269-0dd7-7bc3-491d-2ac24ad4f679.json
+Segnali    : deceasedDateTime: 2009-01-01T16:53:53+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Melanie283 Schumm995
+Deceduto il: 2024-08-26
+Causa morte: Malignant neoplasm of colon (disorder)
+File       : Melanie283_Schumm995_72d3a6b0-c189-884f-aa5d-4b3e63fc7d38.json
+Segnali    : deceasedDateTime: 2024-08-26T14:54:14+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Melia148 Marcella377 Kling921
+Deceduto il: 2012-05-18
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Melia148_Marcella377_Kling921_b5fb0bfc-00ee-2ac6-4ea3-de13bc9b7c1e.json
+Segnali    : deceasedDateTime: 2012-05-18T08:54:32+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Michell380 Bergstrom287
+Deceduto il: 2001-05-02
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Michell380_Bergstrom287_5435bc28-1c88-75f4-9412-0f7770093887.json
+Segnali    : deceasedDateTime: 2001-05-02T17:01:24+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Mirna233 Janice500 Renner328
+Deceduto il: 2023-03-09
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Mirna233_Janice500_Renner328_a1b834e0-6c25-2b31-b127-a4e7f72bc57d.json
+Segnali    : deceasedDateTime: 2023-03-09T13:30:43+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Miss492 Berge125
+Deceduto il: 2018-02-19
+Causa morte: Ischemic heart disease (disorder)
+File       : Miss492_Berge125_c003fb86-ebe3-d941-c692-197e500086c1.json
+Segnali    : deceasedDateTime: 2018-02-19T23:29:32+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Missy373 Fernande593 Cummings51
+Deceduto il: 2010-05-21
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Missy373_Cummings51_d922bf4b-2ef9-5565-049c-fa5dbac60940.json
+Segnali    : deceasedDateTime: 2010-05-21T21:49:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Mitsuko474 McCullough561
+Deceduto il: 1991-02-16
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Mitsuko474_McCullough561_5cf8df8a-c0b7-fd82-2fe5-dd94d68cc44d.json
+Segnali    : deceasedDateTime: 1991-02-16T07:09:51+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Mollie266 Carole948 Lubowitz58
+Deceduto il: 2007-04-24
+Causa morte: Overlapping malignant neoplasm of colon (disorder)
+File       : Mollie266_Carole948_Lubowitz58_b659755b-8d46-2933-2fa4-569b25da42a0.json
+Segnali    : deceasedDateTime: 2007-04-24T07:12:40+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Muriel394 Delsie188 Cole117
+Deceduto il: 2017-10-01
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Muriel394_Delsie188_Cole117_9098bdb1-3ba3-c012-d101-344874dff118.json
+Segnali    : deceasedDateTime: 2017-10-01T18:20:30+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Nakita746 Kenneth671 Pagac496
+Deceduto il: 2014-01-15
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Nakita746_Kenneth671_Pagac496_fae6a33d-c7fe-c40f-38bd-12fea02007bb.json
+Segnali    : deceasedDateTime: 2014-01-15T03:12:33+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Nancie476 Juliana372 Wilkinson796
+Deceduto il: 2015-07-16
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Nancie476_Juliana372_Wilkinson796_a8aea36b-bb9d-ef98-89f5-ec45b8909234.json
+Segnali    : deceasedDateTime: 2015-07-16T22:31:44+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Nieves278 Yuki258 Kris249
+Deceduto il: 2017-07-26
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Nieves278_Kris249_5c73e281-64b7-3b08-45df-c645aab45f72.json
+Segnali    : deceasedDateTime: 2017-07-26T20:25:56+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Nilda678 Willms744
+Deceduto il: 2004-08-23
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Nilda678_Willms744_2edacfb4-f193-2718-a892-c91632e1581d.json
+Segnali    : deceasedDateTime: 2004-08-23T13:19:16+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Noemi984 Marcell728 Cartwright189
+Deceduto il: 1984-03-23
+Causa morte: Sudden cardiac death (disorder)
+File       : Noemi984_Cartwright189_a4f489fe-2316-747f-b3eb-f10e2022a177.json
+Segnali    : deceasedDateTime: 1984-03-23T10:28:04+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Norene941 Noelle559 Padberg411
+Deceduto il: 2015-09-30
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Norene941_Noelle559_Padberg411_76588417-249a-6f9d-dba1-217cbe4c7726.json
+Segnali    : deceasedDateTime: 2015-09-30T09:07:19+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Nova124 Elma843 Welch179
+Deceduto il: 1999-09-16
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Nova124_Elma843_Welch179_35c0a9ed-869d-d782-382d-0bee0277a467.json
+Segnali    : deceasedDateTime: 1999-09-16T20:33:14+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Pamela954 Koch169
+Deceduto il: 2025-04-27
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Pamela954_Koch169_9595fe56-3cc3-0a63-4337-0b7dd74b77ea.json
+Segnali    : deceasedDateTime: 2025-04-27T12:58:51+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Pearlene638 Kimbra238 Howell947
+Deceduto il: 1992-11-27
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Pearlene638_Howell947_4e121dc2-e468-b175-6d6f-9f7e921d913a.json
+Segnali    : deceasedDateTime: 1992-11-27T13:23:50+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Pei116 Taina903 Conroy74
+Deceduto il: 2025-08-16
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Pei116_Taina903_Conroy74_dfe54f50-6cfb-1359-688e-67ec577b1b12.json
+Segnali    : deceasedDateTime: 2025-08-16T01:25:10+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Penney623 Earlene410 Zemlak964
+Deceduto il: 2025-04-03
+Causa morte: End-stage renal disease (disorder)
+File       : Penney623_Earlene410_Zemlak964_f8a29ac4-5418-9157-2350-d403e5a8883c.json
+Segnali    : deceasedDateTime: 2025-04-03T21:54:54+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Piper612 Malvina930 Schaden604
+Deceduto il: 2017-05-31
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Piper612_Malvina930_Schaden604_d8b24348-dafd-00eb-f5b2-617ea7db99ec.json
+Segnali    : deceasedDateTime: 2017-05-31T05:48:11+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Raeann749 Pat3 Bashirian201
+Deceduto il: 1992-11-27
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Raeann749_Pat3_Bashirian201_d1b27f85-a799-6584-afe4-db7508a21786.json
+Segnali    : deceasedDateTime: 1992-11-27T21:14:42+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Rheba182 Johnson679
+Deceduto il: 2025-07-20
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Rheba182_Johnson679_0041acbf-4587-edc9-eebd-545d08b4aeb5.json
+Segnali    : deceasedDateTime: 2025-07-20T01:06:04+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Rosamaria757 Drew592 Crist667
+Deceduto il: 2005-09-04
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Rosamaria757_Drew592_Crist667_641a10a2-1611-139c-e84c-f9b54571df0a.json
+Segnali    : deceasedDateTime: 2005-09-04T11:51:13+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Roselia779 Lavada531 Hand679
+Deceduto il: 1998-03-20
+Causa morte: Pulmonary emphysema (disorder)
+File       : Roselia779_Lavada531_Hand679_3f756782-4c1e-4bda-f7ee-0e68c2c1df82.json
+Segnali    : deceasedDateTime: 1998-03-20T01:29:37+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Rosemary734 Shante445 Mueller846
+Deceduto il: 2011-05-28
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Rosemary734_Shante445_Mueller846_77cb0762-40aa-0795-e87d-27817c4e1b4d.json
+Segnali    : deceasedDateTime: 2011-05-28T13:21:55+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Rossie247 Maye976 Reynolds644
+Deceduto il: 2022-08-14
+Causa morte: Cerebrovascular accident (disorder)
+File       : Rossie247_Maye976_Reynolds644_5b5e40f1-b295-b6dc-ecbd-23d994c73d63.json
+Segnali    : deceasedDateTime: 2022-08-14T06:53:55+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Roxanna261 Fernanda589 Macejkovic424
+Deceduto il: 2020-09-06
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Roxanna261_Fernanda589_Macejkovic424_dfd81ed0-e970-9acc-47aa-ef040968cf51.json
+Segnali    : deceasedDateTime: 2020-09-06T13:43:09+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Rubie803 Joe656 Kertzmann286
+Deceduto il: 1999-10-30
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Rubie803_Kertzmann286_c38d3d34-e278-da7e-3599-ab47b099df39.json
+Segnali    : deceasedDateTime: 1999-10-30T22:12:20+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Scottie437 Schroeder447
+Deceduto il: 1994-12-05
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Scottie437_Schroeder447_8c68241f-32cb-02c6-25df-80f50bca94b8.json
+Segnali    : deceasedDateTime: 1994-12-05T01:57:02+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Sena221 Jodie811 Emard19
+Deceduto il: 2016-10-16
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Sena221_Jodie811_Emard19_61b4e8c6-6ea7-932b-7d7b-ef03c0528eed.json
+Segnali    : deceasedDateTime: 2016-10-16T20:18:03+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Shana231 Mitsuko474 Mohr916
+Deceduto il: 2013-11-03
+Causa morte: Ischemic heart disease (disorder)
+File       : Shana231_Mitsuko474_Mohr916_fbd7afd2-c3b7-2d3a-762c-fb3a2d6a40b3.json
+Segnali    : deceasedDateTime: 2013-11-03T07:10:44+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Shanon591 Robel940
+Deceduto il: 2009-03-28
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Shanon591_Robel940_0d1d134e-7ef6-2777-9633-afde0e4ed996.json
+Segnali    : deceasedDateTime: 2009-03-28T04:03:41+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Shantay950 Iesha760 Konopelski743
+Deceduto il: 2014-07-05
+Causa morte: Concussion injury of brain (disorder)
+File       : Shantay950_Konopelski743_7ad8bc20-670b-1393-d03a-b7c89c69f6b7.json
+Segnali    : deceasedDateTime: 2014-07-05T08:42:31+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Sharlene906 Joaquina124 Rutherford999
+Deceduto il: 2001-05-22
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Sharlene906_Rutherford999_89c4c93c-0437-eb49-13e9-99b6ab6f285d.json
+Segnali    : deceasedDateTime: 2001-05-22T05:38:29+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Sharonda198 Luella739 Kihn564
+Deceduto il: 1945-05-13
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Sharonda198_Kihn564_a37974b0-09f4-adf7-9935-172c6413aca6.json
+Segnali    : deceasedDateTime: 1945-05-13T12:50:32+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Sheila338 Cecile401 Mraz590
+Deceduto il: 2021-02-01
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Sheila338_Cecile401_Mraz590_7d8106b3-1926-ae1d-77e9-7fa1a8787af5.json
+Segnali    : deceasedDateTime: 2021-02-01T18:35:10+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Shelley12 Faviola526 Ledner144
+Deceduto il: 2021-04-01
+Causa morte: Alzheimer's disease (disorder)
+File       : Shelley12_Faviola526_Ledner144_0476a9ba-4bc6-d461-b3f9-8b49832af240.json
+Segnali    : deceasedDateTime: 2021-04-01T07:15:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Shemika942 Sophia44 Hegmann834
+Deceduto il: 2002-08-31
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Shemika942_Sophia44_Hegmann834_b0466a1c-20ef-d28f-23c7-5758d228c4e7.json
+Segnali    : deceasedDateTime: 2002-08-31T21:46:11+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Sherise735 Arianna984 Cummerata161
+Deceduto il: 2014-10-27
+Causa morte: Alzheimer's disease (disorder)
+File       : Sherise735_Arianna984_Cummerata161_0011ba19-f020-f43a-475c-a46ae6e558e1.json
+Segnali    : deceasedDateTime: 2014-10-27T21:50:22+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Sherrill767 Roseline981 Emmerich580
+Deceduto il: 2018-09-21
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Sherrill767_Emmerich580_3369b099-f844-a8de-21e0-ad5a38380f33.json
+Segnali    : deceasedDateTime: 2018-09-21T01:34:42+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Shira43 Belle514 Pfeffer420
+Deceduto il: 2018-04-24
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Shira43_Belle514_Pfeffer420_d79dabc2-a53a-0361-92a8-5d12a30992be.json
+Segnali    : deceasedDateTime: 2018-04-24T00:06:21+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. So684 Waelchi213
+Deceduto il: 2021-02-25
+Causa morte: Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)
+File       : So684_Waelchi213_5116a40e-df6a-6ef7-f394-48f4374fb550.json
+Segnali    : deceasedDateTime: 2021-02-25T01:54:30+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Sun500 Merrill415 Schaden604
+Deceduto il: 2007-05-30
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Sun500_Schaden604_554d5f0d-0440-4d47-ee29-a8d939fc5131.json
+Segnali    : deceasedDateTime: 2007-05-30T01:00:14+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Suzan149 Dorris197 Abernathy524
+Deceduto il: 2020-05-18
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Suzan149_Dorris197_Abernathy524_f15d4bed-c68a-504c-9e07-cea1f37ab8be.json
+Segnali    : deceasedDateTime: 2020-05-18T12:49:05+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Talisha682 Deckow585
+Deceduto il: 2001-05-20
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Talisha682_Deckow585_a4f23bf0-6b64-498f-6f99-ebccce6e4164.json
+Segnali    : deceasedDateTime: 2001-05-20T08:16:06+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Tamekia382 Rosa195 Langosh790
+Deceduto il: 2024-12-06
+Causa morte: Human immunodeficiency virus infection (disorder)
+File       : Tamekia382_Rosa195_Langosh790_dd46fa35-7b4b-9695-7361-112a2b2e40f8.json
+Segnali    : deceasedDateTime: 2024-12-06T12:00:47+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Tammie751 Jin479 Kub800
+Deceduto il: 2019-01-10
+Causa morte: Pneumonia (disorder)
+File       : Tammie751_Jin479_Kub800_bf95ef3b-6de8-587a-2acc-1212d8e64545.json
+Segnali    : deceasedDateTime: 2019-01-10T05:02:37+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Taren286 Ruecker817
+Deceduto il: 1999-02-23
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Taren286_Ruecker817_0493c12a-3a41-d156-c520-6a950db408d2.json
+Segnali    : deceasedDateTime: 1999-02-23T17:46:19+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Tawanda156 Shawna986 Rowe323
+Deceduto il: 2018-10-30
+Causa morte: Pneumonia (disorder)
+File       : Tawanda156_Shawna986_Rowe323_b431bf1b-86c0-01ad-7f5c-691926c798c7.json
+Segnali    : deceasedDateTime: 2018-10-30T04:19:17+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Tess185 Mora209 Beer512
+Deceduto il: 2024-07-30
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Tess185_Mora209_Beer512_e7017c7f-aa48-5e85-c22f-f56708e0e666.json
+Segnali    : deceasedDateTime: 2024-07-30T09:09:40+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Tessie155 Margarette462 Williamson769
+Deceduto il: 2009-04-02
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Tessie155_Williamson769_f3aa094e-7f64-deb4-f04e-3e1d07000a9e.json
+Segnali    : deceasedDateTime: 2009-04-02T01:04:11+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Theo630 Della552 McClure239
+Deceduto il: 2024-04-09
+Causa morte: Pneumonia (disorder)
+File       : Theo630_Della552_McClure239_2eb2af14-6853-9e8d-941c-5b02208287be.json
+Segnali    : deceasedDateTime: 2024-04-09T12:20:59+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Tory770 Yasmin241 Kuphal363
+Deceduto il: 2000-07-08
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Tory770_Yasmin241_Kuphal363_7273b444-5978-b47b-7725-2a7dd951c4c8.json
+Segnali    : deceasedDateTime: 2000-07-08T07:40:22+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Verlene883 Gussie514 Anderson154
+Deceduto il: 2021-05-27
+Causa morte: Chronic obstructive bronchitis (disorder)
+File       : Verlene883_Anderson154_e54078ae-8fc7-4992-7cd4-ead995ffda06.json
+Segnali    : deceasedDateTime: 2021-05-27T21:40:17+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Vikki110 Lahoma872 Lesch175
+Deceduto il: 2021-10-16
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Vikki110_Lahoma872_Lesch175_9a7eabdd-904c-8d6d-6f2d-aaf6f7985587.json
+Segnali    : deceasedDateTime: 2021-10-16T09:48:19+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Vonnie403 Zula72 Walker122
+Deceduto il: 1999-09-16
+Causa morte: Small cell carcinoma of lung (disorder)
+File       : Vonnie403_Zula72_Walker122_657f51c2-4b5c-83c7-4a1a-2f54880df070.json
+Segnali    : deceasedDateTime: 1999-09-16T14:36:24+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Wanetta360 Cole117
+Deceduto il: 2002-09-30
+Causa morte: Chronic congestive heart failure (disorder)
+File       : Wanetta360_Cole117_f9611dc8-b89b-08ab-6835-a5c0e9812428.json
+Segnali    : deceasedDateTime: 2002-09-30T03:09:01+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Whitley172 Rosenda12 Morissette863
+Deceduto il: 1999-09-26
+Causa morte: Chronic obstructive bronchitis (disorder)
+File       : Whitley172_Rosenda12_Morissette863_000f34b7-09a0-9cf7-c649-4cd9cd5d64d3.json
+Segnali    : deceasedDateTime: 1999-09-26T17:47:09+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Yee761 Isidra572 Metz686
+Deceduto il: 2022-01-03
+Causa morte: Alzheimer's disease (disorder)
+File       : Yee761_Isidra572_Metz686_b400f150-6da5-c47f-5b57-6784644daa80.json
+Segnali    : deceasedDateTime: 2022-01-03T23:10:01+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Yer774 Jeffrey461 Kris249
+Deceduto il: 2008-10-09
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Yer774_Kris249_98b3d8bc-0654-3f22-b2fb-fc2d4b95071c.json
+Segnali    : deceasedDateTime: 2008-10-09T04:52:49+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Yuri475 Yetta429 Hyatt152
+Deceduto il: 2004-08-26
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Yuri475_Hyatt152_fdd67ddb-fe0e-4f08-22d1-b2d0443b24ff.json
+Segnali    : deceasedDateTime: 2004-08-26T18:52:55+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Zella14 Sharmaine326 Pfeffer420
+Deceduto il: 2026-01-28
+Causa morte: Acute ST segment elevation myocardial infarction (disorder)
+File       : Zella14_Sharmaine326_Pfeffer420_1caf9479-f279-7e6f-e28f-259f71ff4e76.json
+Segnali    : deceasedDateTime: 2026-01-28T06:37:26+01:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Mrs. Zora492 Shelley12 Hartmann983
+Deceduto il: 1999-10-03
+Causa morte: Sudden cardiac death (disorder)
+File       : Zora492_Shelley12_Hartmann983_e1679f22-036c-2f7f-d277-7f2798897ed7.json
+Segnali    : deceasedDateTime: 1999-10-03T19:34:56+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
+
+Paziente   : Ms. Zulma701 Chong355 Mitchell808
+Deceduto il: 2013-09-17
+Causa morte: Malignant neoplasm of breast (disorder)
+File       : Zulma701_Mitchell808_0dacc2c3-f98e-6048-e1fa-aa00a32e90d4.json
+Segnali    : deceasedDateTime: 2013-09-17T22:43:35+02:00 | Encounter -> SNOMED 308646001: Death Certification | Observation -> LOINC 69453-9: Cause of Death [US Standard Certificate of Death] | DiagnosticReport -> LOINC 69409-1: U.S. standard certificate of death - 2003 revision
