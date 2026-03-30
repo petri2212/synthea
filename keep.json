@@ -8,19 +8,10 @@
         {
           "transition": "Keep",
           "condition": {
-            "condition_type": "And",
-            "conditions": [
-              {
-                "condition_type": "Active Condition",
-                "codes": [
-                  {
-                    "system": "SNOMED-CT",
-                    "code": "122548005",
-                    "display": "Biopsy of breast (procedure)"
-                  }
-                ]
-              }
-            ]
+            "condition_type": "Attribute",
+            "attribute": "iort_performed",
+            "operator": "==",
+            "value": true
           }
         },
         {
