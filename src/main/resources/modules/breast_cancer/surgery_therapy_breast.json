@@ -6,10 +6,12 @@
   "states": {
     "Initial": {
       "type": "Initial",
-      "direct_transition": "Surgery encounter"
+      "direct_transition": "Surgery encounter",
+      "name": "Initial"
     },
     "Terminal": {
-      "type": "Terminal"
+      "type": "Terminal",
+      "name": "Terminal"
     },
     "Mastectomy": {
       "type": "Procedure",
@@ -17,7 +19,8 @@
         {
           "system": "SNOMED-CT",
           "code": "392023007",
-          "display": "Excision of lesion of breast (procedure)"
+          "display": "Excision of lesion of breast (procedure)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -43,7 +46,8 @@
         "Some women might be worried that having a less extensive surgery might raise their risk of the cancer coming back. But the fact is, in most cases, mastectomy does not give you any better chance of long-term survival or a better outcome from treatment. Studies following thousands of women for more than 20 years show that when BCS can be done along with radiation, having a mastectomy instead does not provide any better chance of survival."
       ],
       "direct_transition": "Post_Surgical_Recovery",
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Mastectomy"
     },
     "Breast-conserving surgery (BCS)": {
       "type": "Procedure",
@@ -51,7 +55,8 @@
         {
           "system": "SNOMED-CT",
           "code": "392021009",
-          "display": "Lumpectomy of breast (procedure)"
+          "display": "Lumpectomy of breast (procedure)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -79,7 +84,8 @@
         "Some women might be worried that having a less extensive surgery might raise their risk of the cancer coming back. But the fact is, in most cases, mastectomy does not give you any better chance of long-term survival or a better outcome from treatment. Studies following thousands of women for more than 20 years show that when BCS can be done along with radiation, having a mastectomy instead does not provide any better chance of survival."
       ],
       "direct_transition": "Post Surgical Recovery",
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Breast-conserving surgery (BCS)"
     },
     "External Beam Radiation": {
       "type": "Procedure",
@@ -87,7 +93,8 @@
         {
           "system": "SNOMED-CT",
           "code": "33195004",
-          "display": "External beam radiation therapy procedure (procedure)"
+          "display": "External beam radiation therapy procedure (procedure)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -99,7 +106,8 @@
       "remarks": [
         "https://www.cancer.org/cancer/breast-cancer/treatment/radiation-for-breast-cancer.html"
       ],
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "External Beam Radiation"
     },
     "Hypofractionated radiation therapy": {
       "type": "Procedure",
@@ -107,7 +115,8 @@
         {
           "system": "SNOMED-CT",
           "code": "385798007",
-          "display": "Radiation therapy care (regime/therapy)"
+          "display": "Radiation therapy care (regime/therapy)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -119,28 +128,18 @@
       "remarks": [
         "https://www.breastcancer.org/research-news/accelerated-whole-breast-radiation-new-standard"
       ],
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Hypofractionated radiation therapy"
     },
     "Intraoperative radiation therapy (IORT)": {
-      "type": "Procedure",
-      "codes": [
-        {
-          "system": "SNOMED-CT",
-          "code": "1287742003",
-          "display": "Radiotherapy (procedure)"
-        }
-      ],
-      "duration": {
-        "low": 15,
-        "high": 40,
-        "unit": "minutes"
-      },
-      "direct_transition": "End Current Radiation Visit",
+      "type": "CallSubmodule",
+      "submodule": "breast_cancer/iort_treatment",
+      "direct_transition": "End Breast Surgery",
       "remarks": [
         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493441/",
         "https://uihc.org/health-topics/intraoperative-radiation-therapy-iort"
       ],
-      "reason": "breast_cancer_condition"
+      "name": "Intraoperative radiation therapy (IORT)"
     },
     "Brachytherapy": {
       "type": "Procedure",
@@ -148,7 +147,8 @@
         {
           "system": "SNOMED-CT",
           "code": "447759004",
-          "display": "Brachytherapy of breast (procedure)"
+          "display": "Brachytherapy of breast (procedure)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -170,7 +170,8 @@
           "distribution": 0.5
         }
       ],
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Brachytherapy"
     },
     "Interstitial Brachytherapy": {
       "type": "Procedure",
@@ -178,7 +179,8 @@
         {
           "system": "SNOMED-CT",
           "code": "113120007",
-          "display": "Interstitial brachytherapy (procedure)"
+          "display": "Interstitial brachytherapy (procedure)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -190,7 +192,8 @@
       "remarks": [
         "https://www.mayoclinic.org/tests-procedures/brachytherapy/about/pac-20385159"
       ],
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Interstitial Brachytherapy"
     },
     "Intracavitary brachytherapy": {
       "type": "Procedure",
@@ -198,7 +201,8 @@
         {
           "system": "SNOMED-CT",
           "code": "384692006",
-          "display": "Intracavitary brachytherapy (procedure)"
+          "display": "Intracavitary brachytherapy (procedure)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -210,7 +214,8 @@
         "https://www.mayoclinic.org/tests-procedures/brachytherapy/about/pac-20385159"
       ],
       "direct_transition": "End Brachytherapy Implant",
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Intracavitary brachytherapy"
     },
     "chemo": {
       "type": "CallSubmodule",
@@ -231,7 +236,8 @@
       ],
       "remarks": [
         "https://www.breastcancer.org/research-news/20110925b"
-      ]
+      ],
+      "name": "chemo"
     },
     "Advanced_drugs": {
       "type": "Simple",
@@ -279,7 +285,8 @@
       ],
       "remarks": [
         "https://www.breastcancer.org/research-news/prolia-reduces-recurrence-risk-for-some"
-      ]
+      ],
+      "name": "Advanced_drugs"
     },
     "Zoledronic_Acid": {
       "type": "MedicationOrder",
@@ -287,13 +294,15 @@
         {
           "system": "RxNorm",
           "code": 1114085,
-          "display": "100 ML zoledronic acid 0.04 MG/ML Injection"
+          "display": "100 ML zoledronic acid 0.04 MG/ML Injection",
+          "value_set": ""
         }
       ],
       "direct_transition": "Advanced Drugs IV Injection",
       "assign_to_attribute": "adv_drug",
       "reason": "breast_cancer_condition",
-      "administration": true
+      "administration": true,
+      "name": "Zoledronic_Acid"
     },
     "Denosumab": {
       "type": "MedicationOrder",
@@ -301,13 +310,15 @@
         {
           "system": "RxNorm",
           "code": 993452,
-          "display": "1 ML denosumab 60 MG/ML Prefilled Syringe"
+          "display": "1 ML denosumab 60 MG/ML Prefilled Syringe",
+          "value_set": ""
         }
       ],
       "direct_transition": "Advanced Drugs IV Injection",
       "assign_to_attribute": "adv_drug",
       "reason": "breast_cancer_condition",
-      "administration": true
+      "administration": true,
+      "name": "Denosumab"
     },
     "Pamidronate": {
       "type": "MedicationOrder",
@@ -315,20 +326,23 @@
         {
           "system": "RxNorm",
           "code": 1737449,
-          "display": "10 ML Pamidronate Disodium 3 MG/ML Injection"
+          "display": "10 ML Pamidronate Disodium 3 MG/ML Injection",
+          "value_set": ""
         }
       ],
       "direct_transition": "Pamidronate IV Injection",
       "assign_to_attribute": "adv_drug",
       "reason": "breast_cancer_condition",
-      "administration": true
+      "administration": true,
+      "name": "Pamidronate"
     },
     "Breast_Surgery": {
       "type": "Simple",
       "remarks": [
         "https://www.cooperhealth.org/services/radiation-oncology/questions-you-may-have-about-radiation-therapy"
       ],
-      "direct_transition": "Initialize Breast Surgery Treatment Counter"
+      "direct_transition": "Initialize Breast Surgery Treatment Counter",
+      "name": "Breast_Surgery"
     },
     "Sentinel_Lymph_Node_Biopsy__SLNB_": {
       "type": "Procedure",
@@ -336,7 +350,8 @@
         {
           "system": "SNOMED-CT",
           "code": "396487001",
-          "display": "Sentinel lymph node biopsy (procedure)"
+          "display": "Sentinel lymph node biopsy (procedure)",
+          "value_set": ""
         }
       ],
       "direct_transition": "Excision_Of_Sentinel_Lymph_Node",
@@ -345,7 +360,8 @@
         "high": 50,
         "unit": "minutes"
       },
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Sentinel_Lymph_Node_Biopsy__SLNB_"
     },
     "Axillary_Lymph_Node_Dissection__ALND_": {
       "type": "Procedure",
@@ -353,7 +369,8 @@
         {
           "system": "SNOMED-CT",
           "code": "234262008",
-          "display": "Excision of axillary lymph node (procedure)"
+          "display": "Excision of axillary lymph node (procedure)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -362,11 +379,13 @@
         "unit": "minutes"
       },
       "direct_transition": "End_Lymph_Node_Surgery",
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Axillary_Lymph_Node_Dissection__ALND_"
     },
     "End Breast Surgery": {
       "type": "Simple",
-      "direct_transition": "Delay After Treatment"
+      "direct_transition": "Delay After Treatment",
+      "name": "End Breast Surgery"
     },
     "Lymph_Node Surgery": {
       "type": "Delay",
@@ -403,7 +422,8 @@
         "To learn more about these procedures and when they might be done, see Lymph Node Surgery for Breast Cancer. ",
         "",
         ""
-      ]
+      ],
+      "name": "Lymph_Node Surgery"
     },
     "End_Lymph_Node_Surgery": {
       "type": "Delay",
@@ -428,7 +448,8 @@
         {
           "transition": "Breast_Surgery"
         }
-      ]
+      ],
+      "name": "End_Lymph_Node_Surgery"
     },
     "Surgery encounter": {
       "type": "Encounter",
@@ -438,7 +459,8 @@
         {
           "system": "SNOMED-CT",
           "code": "185347001",
-          "display": "Encounter for problem (procedure)"
+          "display": "Encounter for problem (procedure)",
+          "value_set": ""
         }
       ],
       "conditional_transition": [
@@ -454,21 +476,24 @@
         {
           "transition": "Lymph_Node Surgery"
         }
-      ]
+      ],
+      "name": "Surgery encounter"
     },
     "End Surgery encounter": {
       "type": "EncounterEnd",
       "remarks": [
         "https://www.breastcancer.org/treatment/surgery/mastectomy/expectations"
       ],
-      "direct_transition": "Delay after Mastectomy"
+      "direct_transition": "Delay after Mastectomy",
+      "name": "End Surgery encounter"
     },
     "BCS end surgery": {
       "type": "EncounterEnd",
       "remarks": [
         "https://www.breastcancer.org/treatment/surgery/lumpectomy/expectations"
       ],
-      "direct_transition": "Delay After BCS"
+      "direct_transition": "Delay After BCS",
+      "name": "BCS end surgery"
     },
     "Delay After BCS": {
       "type": "Delay",
@@ -480,7 +505,8 @@
         "high": 14,
         "unit": "days"
       },
-      "direct_transition": "BCS Follow-Up Treatment"
+      "direct_transition": "BCS Follow-Up Treatment",
+      "name": "Delay After BCS"
     },
     "Delay after Mastectomy": {
       "type": "Delay",
@@ -492,7 +518,8 @@
         "high": 14,
         "unit": "days"
       },
-      "direct_transition": "Mastectomy Follow-Up Therapy"
+      "direct_transition": "Mastectomy Follow-Up Therapy",
+      "name": "Delay after Mastectomy"
     },
     "Mastectomy Follow-Up Therapy": {
       "type": "Encounter",
@@ -501,7 +528,8 @@
         {
           "system": "SNOMED-CT",
           "code": "185347001",
-          "display": "Encounter for problem (procedure)"
+          "display": "Encounter for problem (procedure)",
+          "value_set": ""
         }
       ],
       "complex_transition": [
@@ -668,7 +696,8 @@
         "Fluid collecting in the breast (seroma) ",
         " "
       ],
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Mastectomy Follow-Up Therapy"
     },
     "BCS Follow-Up Treatment": {
       "type": "Encounter",
@@ -678,7 +707,8 @@
         {
           "system": "SNOMED-CT",
           "code": "185347001",
-          "display": "Encounter for problem (procedure)"
+          "display": "Encounter for problem (procedure)",
+          "value_set": ""
         }
       ],
       "complex_transition": [
@@ -879,7 +909,8 @@
         "Weakness and fracture of the ribs in rare cases",
         "Fluid collecting in the breast (seroma) ",
         " "
-      ]
+      ],
+      "name": "BCS Follow-Up Treatment"
     },
     "Pamidronate IV Injection": {
       "type": "Procedure",
@@ -887,7 +918,8 @@
         {
           "system": "SNOMED-CT",
           "code": "43060002",
-          "display": "Intravenous injection (procedure)"
+          "display": "Intravenous injection (procedure)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -896,11 +928,13 @@
         "unit": "hours"
       },
       "direct_transition": "End Pamidronate Infusion Encounter",
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Pamidronate IV Injection"
     },
     "End Pamidronate Infusion Encounter": {
       "type": "EncounterEnd",
-      "direct_transition": "End Pamidronate Medication"
+      "direct_transition": "End Pamidronate Medication",
+      "name": "End Pamidronate Infusion Encounter"
     },
     "Advanced Drugs IV Injection": {
       "type": "Procedure",
@@ -908,7 +942,8 @@
         {
           "system": "SNOMED-CT",
           "code": "43060002",
-          "display": "Intravenous injection (procedure)"
+          "display": "Intravenous injection (procedure)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -917,7 +952,8 @@
         "unit": "minutes"
       },
       "direct_transition": "End Advanced Drug Medication",
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Advanced Drugs IV Injection"
     },
     "End Current Advanced Drug Infusion": {
       "type": "EncounterEnd",
@@ -934,23 +970,27 @@
         {
           "transition": "End Breast Surgery"
         }
-      ]
+      ],
+      "name": "End Current Advanced Drug Infusion"
     },
     "End Advanced Drug Medication": {
       "type": "MedicationEnd",
       "direct_transition": "End Current Advanced Drug Infusion",
-      "referenced_by_attribute": "adv_drug"
+      "referenced_by_attribute": "adv_drug",
+      "name": "End Advanced Drug Medication"
     },
     "End Pamidronate Medication": {
       "type": "MedicationEnd",
       "direct_transition": "End Breast Surgery",
-      "referenced_by_attribute": "adv_drug"
+      "referenced_by_attribute": "adv_drug",
+      "name": "End Pamidronate Medication"
     },
     "Increment treatment counter": {
       "type": "Counter",
       "attribute": "breast_cancer_treat_count",
       "action": "increment",
-      "direct_transition": "6 Month Delay"
+      "direct_transition": "6 Month Delay",
+      "name": "Increment treatment counter"
     },
     "6 Month Delay": {
       "type": "Delay",
@@ -963,7 +1003,8 @@
       "remarks": [
         "Prolia (chemical name: denosumab) is a targeted therapy used to treat bone loss in women taking aromatase inhibitors as part of their breast cancer treatment. Prolia is given as an injection under the skin every 6 months at a dose of 60 mg:",
         "https://www.breastcancer.org/research-news/prolia-reduces-recurrence-risk-for-some"
-      ]
+      ],
+      "name": "6 Month Delay"
     },
     "Start New Advanced Drug Cycle": {
       "type": "Encounter",
@@ -973,10 +1014,12 @@
         {
           "system": "SNOMED-CT",
           "code": "185347001",
-          "display": "Encounter for problem (procedure)"
+          "display": "Encounter for problem (procedure)",
+          "value_set": ""
         }
       ],
-      "direct_transition": "Advanced_drugs"
+      "direct_transition": "Advanced_drugs",
+      "name": "Start New Advanced Drug Cycle"
     },
     "Delay After Treatment": {
       "type": "Delay",
@@ -985,7 +1028,8 @@
         "low": 2,
         "high": 7,
         "unit": "days"
-      }
+      },
+      "name": "Delay After Treatment"
     },
     "Radiation_Buffer_After_Brachytherapy": {
       "type": "Delay",
@@ -994,11 +1038,13 @@
         "high": 8,
         "unit": "weeks"
       },
-      "direct_transition": "End Breast Surgery"
+      "direct_transition": "End Breast Surgery",
+      "name": "Radiation_Buffer_After_Brachytherapy"
     },
     "End Brachytherapy Implant": {
       "type": "EncounterEnd",
-      "direct_transition": "Radiation_Buffer_After_Brachytherapy"
+      "direct_transition": "Radiation_Buffer_After_Brachytherapy",
+      "name": "End Brachytherapy Implant"
     },
     "End Current Radiation Visit": {
       "type": "EncounterEnd",
@@ -1015,13 +1061,15 @@
         {
           "transition": "End Breast Surgery"
         }
-      ]
+      ],
+      "name": "End Current Radiation Visit"
     },
     "Increment Radiation Treatment Count": {
       "type": "Counter",
       "attribute": "breast_cancer_treat_count",
       "action": "increment",
-      "direct_transition": "Delay Until Next Cycle"
+      "direct_transition": "Delay Until Next Cycle",
+      "name": "Increment Radiation Treatment Count"
     },
     "Delay Until Next Cycle": {
       "type": "Delay",
@@ -1030,7 +1078,8 @@
         "low": 24,
         "high": 36,
         "unit": "hours"
-      }
+      },
+      "name": "Delay Until Next Cycle"
     },
     "Next Day Radiation Treatment": {
       "type": "Encounter",
@@ -1039,7 +1088,8 @@
         {
           "system": "SNOMED-CT",
           "code": "185347001",
-          "display": "Encounter for problem (procedure)"
+          "display": "Encounter for problem (procedure)",
+          "value_set": ""
         }
       ],
       "conditional_transition": [
@@ -1065,7 +1115,8 @@
           }
         }
       ],
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Next Day Radiation Treatment"
     },
     "Excision_Of_Sentinel_Lymph_Node": {
       "type": "Procedure",
@@ -1073,7 +1124,8 @@
         {
           "system": "SNOMED-CT",
           "code": "443497002",
-          "display": "Excision of sentinel lymph node (procedure)"
+          "display": "Excision of sentinel lymph node (procedure)",
+          "value_set": ""
         }
       ],
       "duration": {
@@ -1082,7 +1134,8 @@
         "unit": "minutes"
       },
       "direct_transition": "End_Lymph_Node_Surgery",
-      "reason": "breast_cancer_condition"
+      "reason": "breast_cancer_condition",
+      "name": "Excision_Of_Sentinel_Lymph_Node"
     },
     "Initialize Breast Surgery Treatment Counter": {
       "type": "SetAttribute",
@@ -1100,7 +1153,8 @@
       "remarks": [
         "https://www.cooperhealth.org/services/radiation-oncology/questions-you-may-have-about-radiation-therapy"
       ],
-      "value": 0
+      "value": 0,
+      "name": "Initialize Breast Surgery Treatment Counter"
     },
     "Post Surgical Recovery": {
       "type": "Delay",
@@ -1111,7 +1165,8 @@
         }
       },
       "unit": "days",
-      "direct_transition": "BCS end surgery"
+      "direct_transition": "BCS end surgery",
+      "name": "Post Surgical Recovery"
     },
     "Post_Surgical_Recovery": {
       "type": "Delay",
@@ -1122,7 +1177,8 @@
         }
       },
       "unit": "days",
-      "direct_transition": "End Surgery encounter"
+      "direct_transition": "End Surgery encounter",
+      "name": "Post_Surgical_Recovery"
     }
   },
   "gmf_version": 1
