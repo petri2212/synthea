@@ -1,0 +1,507 @@
+{
+  "name": "IORT Treatment",
+  "remarks": [
+    "Submodule for Intraoperative Radiation Therapy (IORT) in breast cancer.",
+    "Called from surgery_therapy_breast_cancer.json after BCS.",
+    "WARNING: LOINC codes for LOCAL parameters are placeholders — must be verified before clinical use."
+  ],
+  "gmf_version": 1,
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "direct_transition": "IORT_Encounter",
+      "name": "Initial"
+    },
+    "IORT_Encounter": {
+      "type": "Encounter",
+      "encounter_class": "inpatient",
+      "reason": "breast_cancer_condition",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "185347001",
+          "display": "Encounter for problem (procedure)",
+          "value_set": ""
+        }
+      ],
+      "distributed_transition": [
+        { "transition": "IORT_Laterality_Left", "distribution": 0.55 },
+        { "transition": "IORT_Laterality_Right", "distribution": 0.45 }
+      ],
+      "name": "IORT_Encounter"
+    },
+    "IORT_Laterality_Left": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "20228-3",
+          "display": "Anatomic part Laterality",
+          "value_set": ""
+        }
+      ],
+      "value_code": {
+        "system": "SNOMED-CT",
+        "code": "7771000",
+        "display": "Left"
+      },
+      "distributed_transition": [
+        { "transition": "IORT_Sede_QSE", "distribution": 0.4 },
+        { "transition": "IORT_Sede_QSI", "distribution": 0.2 },
+        { "transition": "IORT_Sede_QIE", "distribution": 0.25 },
+        { "transition": "IORT_Sede_QII", "distribution": 0.15 }
+      ],
+      "remarks": [
+        "LOINC 20228-3 verified. 55% left laterality per epidemiological literature."
+      ],
+      "name": "IORT_Laterality_Left"
+    },
+    "IORT_Laterality_Right": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "20228-3",
+          "display": "Anatomic part Laterality",
+          "value_set": ""
+        }
+      ],
+      "value_code": {
+        "system": "SNOMED-CT",
+        "code": "24028007",
+        "display": "Right"
+      },
+      "distributed_transition": [
+        { "transition": "IORT_Sede_QSE", "distribution": 0.4 },
+        { "transition": "IORT_Sede_QSI", "distribution": 0.2 },
+        { "transition": "IORT_Sede_QIE", "distribution": 0.25 },
+        { "transition": "IORT_Sede_QII", "distribution": 0.15 }
+      ],
+      "remarks": [
+        "LOINC 20228-3 verified. 45% right laterality per epidemiological literature."
+      ],
+      "name": "IORT_Laterality_Right"
+    },
+    "IORT_Sede_QSE": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "39111-0",
+          "display": "Body site",
+          "value_set": ""
+        }
+      ],
+      "value_code": {
+        "system": "SNOMED-CT",
+        "code": "80248007",
+        "display": "Upper outer quadrant of breast"
+      },
+      "direct_transition": "IORT_Procedure",
+      "name": "IORT_Sede_QSE"
+    },
+    "IORT_Sede_QSI": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "39111-0",
+          "display": "Body site",
+          "value_set": ""
+        }
+      ],
+      "value_code": {
+        "system": "SNOMED-CT",
+        "code": "13069004",
+        "display": "Upper inner quadrant of breast"
+      },
+      "direct_transition": "IORT_Procedure",
+      "name": "IORT_Sede_QSI"
+    },
+    "IORT_Sede_QIE": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "39111-0",
+          "display": "Body site",
+          "value_set": ""
+        }
+      ],
+      "value_code": {
+        "system": "SNOMED-CT",
+        "code": "77831004",
+        "display": "Lower outer quadrant of breast"
+      },
+      "direct_transition": "IORT_Procedure",
+      "name": "IORT_Sede_QIE"
+    },
+    "IORT_Sede_QII": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "39111-0",
+          "display": "Body site",
+          "value_set": ""
+        }
+      ],
+      "value_code": {
+        "system": "SNOMED-CT",
+        "code": "33564002",
+        "display": "Lower inner quadrant of breast"
+      },
+      "direct_transition": "IORT_Procedure",
+      "name": "IORT_Sede_QII"
+    },
+    "IORT_Procedure": {
+      "type": "Procedure",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "1287742003",
+          "display": "Radiotherapy (procedure)",
+          "value_set": ""
+        }
+      ],
+      "duration": {
+        "low": 20,
+        "high": 40,
+        "unit": "minutes"
+      },
+      "reason": "breast_cancer_condition",
+      "direct_transition": "IORT_Technique",
+      "name": "IORT_Procedure"
+    },
+    "IORT_Technique": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "21943-6",
+          "display": "Radiation treatment Cancer",
+          "value_set": ""
+        }
+      ],
+      "value_code": {
+        "system": "SNOMED-CT",
+        "code": "1287742003",
+        "display": "Radiotherapy (procedure)"
+      },
+      "distributed_transition": [
+        { "transition": "IORT_Dose_TARGIT", "distribution": 0.5 },
+        { "transition": "IORT_Dose_ELIOT", "distribution": 0.5 }
+      ],
+      "remarks": [
+        "TARGIT uses 50kV X-rays (Intrabeam device), dose ~20 Gy at surface.",
+        "ELIOT uses electron beam, dose ~21 Gy."
+      ],
+      "name": "IORT_Technique"
+    },
+    "IORT_Dose_TARGIT": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "21958-4",
+          "display": "Regional radiation treatment Dose",
+          "value_set": ""
+        }
+      ],
+      "unit": "Gy",
+      "range": { "low": 19.5, "high": 21 },
+      "direct_transition": "IORT_Spessore_Trattamento",
+      "remarks": [ "Standard TARGIT dose is 20 Gy at applicator surface." ],
+      "name": "IORT_Dose_TARGIT"
+    },
+    "IORT_Dose_ELIOT": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "21958-4",
+          "display": "Regional radiation treatment Dose",
+          "value_set": ""
+        }
+      ],
+      "unit": "Gy",
+      "range": { "low": 20, "high": 22 },
+      "direct_transition": "IORT_Spessore_Trattamento",
+      "remarks": [ "Standard ELIOT dose is 21 Gy." ],
+      "name": "IORT_Dose_ELIOT"
+    },
+    "IORT_Spessore_Trattamento": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "33756-8",
+          "display": "Radiation treatment thickness (mm)",
+          "value_set": ""
+        }
+      ],
+      "unit": "mm",
+      "range": { "low": 10, "high": 25 },
+      "distributed_transition": [
+        { "transition": "IORT_Diametro_Applicatore_40", "distribution": 0.5 },
+        { "transition": "IORT_Diametro_Applicatore_50", "distribution": 0.5 }
+      ],
+      "name": "IORT_Spessore_Trattamento"
+    },
+    "IORT_Diametro_Applicatore_40": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44974-7",
+          "display": "Applicator diameter (mm)",
+          "value_set": ""
+        }
+      ],
+      "unit": "mm",
+      "exact": { "quantity": 40 },
+      "distributed_transition": [
+        { "transition": "IORT_Bolo_2mm", "distribution": 0.2 },
+        { "transition": "IORT_Bolo_5mm", "distribution": 0.8 }
+      ],
+      "name": "IORT_Diametro_Applicatore_40"
+    },
+    "IORT_Diametro_Applicatore_50": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44974-7",
+          "display": "Applicator diameter (mm)",
+          "value_set": ""
+        }
+      ],
+      "unit": "mm",
+      "exact": { "quantity": 50 },
+      "distributed_transition": [
+        { "transition": "IORT_Bolo_2mm", "distribution": 0.2 },
+        { "transition": "IORT_Bolo_5mm", "distribution": 0.8 }
+      ],
+      "name": "IORT_Diametro_Applicatore_50"
+    },
+    "IORT_Bolo_2mm": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44975-4",
+          "display": "Bolus thickness (mm)",
+          "value_set": ""
+        }
+      ],
+      "unit": "mm",
+      "exact": { "quantity": 0 },
+      "distributed_transition": [
+        { "transition": "IORT_Gruppo_ASTRO_Cautionary", "distribution": 0.56 },
+        { "transition": "IORT_Gruppo_ASTRO_Suitable", "distribution": 0.1 },
+        { "transition": "IORT_Gruppo_ASTRO_Unsuitable", "distribution": 0.34 }
+      ],
+      "name": "IORT_Bolo_2mm"
+    },
+    "IORT_Bolo_5mm": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44975-4",
+          "display": "Bolus thickness (mm)",
+          "value_set": ""
+        }
+      ],
+      "unit": "mm",
+      "exact": { "quantity": 2 },
+      "distributed_transition": [
+        { "transition": "IORT_Gruppo_ASTRO_Suitable", "distribution": 0.2 },
+        { "transition": "IORT_Gruppo_ASTRO_Cautionary", "distribution": 0.3 },
+        { "transition": "IORT_Gruppo_ASTRO_Unsuitable", "distribution": 0.5 }
+      ],
+      "name": "IORT_Bolo_5mm"
+    },
+    "IORT_Gruppo_ASTRO_Suitable": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44976-2",
+          "display": "Radiation therapy patient selection group",
+          "value_set": ""
+        }
+      ],
+      "unit": "{score}",
+      "exact": { "quantity": 1 },
+      "direct_transition": "IORT_Tossicita_G0",
+      "remarks": [ "1=suitable, 2=cautionary, 3=unsuitable per ASTRO 2017 guidelines." ],
+      "name": "IORT_Gruppo_ASTRO_Suitable"
+    },
+    "IORT_Gruppo_ASTRO_Cautionary": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44976-2",
+          "display": "Radiation therapy patient selection group",
+          "value_set": ""
+        }
+      ],
+      "unit": "{score}",
+      "exact": { "quantity": 2 },
+      "direct_transition": "IORT_Tossicita_G1",
+      "name": "IORT_Gruppo_ASTRO_Cautionary"
+    },
+    "IORT_Gruppo_ASTRO_Unsuitable": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44976-2",
+          "display": "Radiation therapy patient selection group",
+          "value_set": ""
+        }
+      ],
+      "unit": "{score}",
+      "exact": { "quantity": 3 },
+      "direct_transition": "IORT_Tossicita_G1",
+      "name": "IORT_Gruppo_ASTRO_Unsuitable"
+    },
+    "IORT_Tossicita_G0": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44977-0",
+          "display": "Late somatic toxicity grade LENT-SOMA",
+          "value_set": ""
+        }
+      ],
+      "unit": "{score}",
+      "exact": { "quantity": 0 },
+      "direct_transition": "IORT_Liponecrosi_Absent",
+      "name": "IORT_Tossicita_G0"
+    },
+    "IORT_Tossicita_G1": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44977-0",
+          "display": "Late somatic toxicity grade LENT-SOMA",
+          "value_set": ""
+        }
+      ],
+      "unit": "{score}",
+      "exact": { "quantity": 1 },
+      "distributed_transition": [
+        { "transition": "IORT_Liponecrosi_Absent", "distribution": 0.85 },
+        { "transition": "IORT_Liponecrosi_Present", "distribution": 0.15 }
+      ],
+      "name": "IORT_Tossicita_G1"
+    },
+    "IORT_Tossicita_G2": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44977-0",
+          "display": "Late somatic toxicity grade LENT-SOMA",
+          "value_set": ""
+        }
+      ],
+      "unit": "{score}",
+      "exact": { "quantity": 2 },
+      "distributed_transition": [
+        { "transition": "IORT_Liponecrosi_Absent", "distribution": 0.7 },
+        { "transition": "IORT_Liponecrosi_Present", "distribution": 0.3 }
+      ],
+      "name": "IORT_Tossicita_G2"
+    },
+    "IORT_Tossicita_G3": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44977-0",
+          "display": "Late somatic toxicity grade LENT-SOMA",
+          "value_set": ""
+        }
+      ],
+      "unit": "{score}",
+      "exact": { "quantity": 3 },
+      "direct_transition": "IORT_Liponecrosi_Present",
+      "name": "IORT_Tossicita_G3"
+    },
+    "IORT_Liponecrosi_Absent": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44978-8",
+          "display": "Radiological liponecrosis",
+          "value_set": ""
+        }
+      ],
+      "unit": "{score}",
+      "exact": { "quantity": 0 },
+      "direct_transition": "Set_IORT_Flag",
+      "name": "IORT_Liponecrosi_Absent"
+    },
+    "IORT_Liponecrosi_Present": {
+      "type": "Observation",
+      "category": "procedure",
+      "codes": [
+        {
+          "system": "LOINC",
+          "code": "44978-8",
+          "display": "Radiological liponecrosis",
+          "value_set": ""
+        }
+      ],
+      "unit": "{score}",
+      "exact": { "quantity": 1 },
+      "direct_transition": "Set_IORT_Flag",
+      "name": "IORT_Liponecrosi_Present"
+    },
+    "Set_IORT_Flag": {
+      "type": "SetAttribute",
+      "attribute": "iort_performed",
+      "value": true,
+      "direct_transition": "IORT_Encounter_End",
+      "name": "Set_IORT_Flag"
+    },
+    "IORT_Encounter_End": {
+      "type": "EncounterEnd",
+      "direct_transition": "Terminal",
+      "name": "IORT_Encounter_End"
+    },
+    "Terminal": {
+      "type": "Terminal",
+      "name": "Terminal"
+    }
+  }
+}
